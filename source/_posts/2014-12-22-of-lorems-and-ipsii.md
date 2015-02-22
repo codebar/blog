@@ -4,6 +4,7 @@ title: "Of lorems and ipsii"
 date: 2014-12-22 16:04:23 -0800
 comments: true
 categories: sample
+author: Jon Doe
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
