@@ -21,6 +21,10 @@ subscribe_email:
 # RSS feeds can list your email address if you like
 email:
 
+
+# Casper settings
+highlight_js_color_theme: default
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -95,7 +99,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-60021561-1'
 
 # Facebook Like
 facebook_like: true
