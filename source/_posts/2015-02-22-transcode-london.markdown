@@ -16,7 +16,7 @@ The event will kick off with an install-fest and a networking social on Friday, 
 
 > “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important. Participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.” - Naomi Ceder, organiser
 
-If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology [sign up as a participant or volunteer to mentor](https://www.eventbrite.com/e/transcode­tickets­15831761224).
+If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology [sign up as a participant or volunteer to mentor](https://www.eventbrite.com/e/transcode-tickets-15831761224).
 
 
 To keep up-to-date with Trans*Code events, follow [@trans_code](http://twitter.com/trans_code) on twitter and subscribe to the [event hashtag](https://twitter.com/hashtag/trans_code?src=hash).
