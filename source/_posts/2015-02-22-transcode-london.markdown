@@ -14,8 +14,9 @@ Trans*Code is a beginner friendly hack event focused on bringing together trans,
 
 The event will kick off with an install-fest and a networking social on Friday, the 27th of March, followed by the main workshop and hackday on Saturday the 28th.
 
-> “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important. Participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.  There is a small budget to help support some attendees with travel and lodging, so if you have an idea, can code, can design, want to learn, or want to improve the situation of the trans and non­binary communities through technology, please join us and help make history.” - Naomi Ceder, organiser
+> “As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important. Participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.” - Naomi Ceder, organiser
 
-[Sign up as a participant or volunteer to mentor](https://www.eventbrite.com/e/transcode­tickets­15831761224)!
+If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology [sign up as a participant or volunteer to mentor](https://www.eventbrite.com/e/transcode­tickets­15831761224).
+
 
 To keep up-to-date with Trans*Code events, follow [@trans_code](http://twitter.com/trans_code) on twitter and subscribe to the [event hashtag](https://twitter.com/hashtag/trans_code?src=hash).
