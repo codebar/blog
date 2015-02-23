@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Transcode London"
+title: "Trans*Code London"
 date: 2015-02-22 15:19:28 +0000
 comments: true
 author: Codebar
+categories: london trans-code
 ---
 
 We are happy to announce our support for the [Trans*Code hackday](http://trans-code.org) that will take place in London in March.
