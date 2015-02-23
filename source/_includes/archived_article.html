@@ -1,3 +1,12 @@
+{% capture date %}{{ post.date }}{% endcapture %}
+{% capture this_year %}{{ date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+	{% assign year = this_year %}
+	{% unless forloop.first %}
+		</section>
+	{% endunless %}
+	<section class="archives"><h1 class="year">{{ date | date: "%Y" }}</h1>
+{% endunless %}
 {% if index %}
 	{% if is_first_post %}
 		{% assign is_first_post = false %}
@@ -10,21 +19,20 @@
 			{% else %}
 			<a href="{{ root_url }}{{ post.url }}">
 			{% endif %}
-				{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+				{% if page.titlecase %}{{ post.title | page.titlecase }}{% else %}{{ post.title }}{% endif %}</a>
 		</h2>
 	</header>
 	<section class="post-excerpt">
-		{{ content | excerpt }}
+		{% include post/categories.html %}
 	</section>
 {% else %}
 	<header class="post-header">
 		<a id="blog-logo" href="{{ site.root }}">{{ site.title }}</a>
 	</header>
 	<span class="post-meta">{{ page.date | date: "%d %b %Y" }}</span>
-	<h1 class="post-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+	<h1 class="post-title">{% if post.title %}{{ post.title }}{% else %}{{ page.title }}{% endif %}</h1>
 
 	<section class="post-content">
-		{{ content }}
 		{% include post/categories.html %}
 	</section>
 {% endif %}

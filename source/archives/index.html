@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Blog Archives
 ---
 
+{% assign index = true %}
+{% assign is_first_post = true %}
+
 {% for post in site.posts reverse %}
-	{% include archive_post.html %}
+    <article class="post">
+	{% include archived_article.html %}
+    </article>
 {% endfor %}
