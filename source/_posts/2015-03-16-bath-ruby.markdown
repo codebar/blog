@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Bath Ruby Conference 2015"
+date: 2015-03-16 22:18:48 +0000
+comments: true
+author: Codebar
+categories: bath ruby conference
+---
+
+If you were happened to be in Bath last Friday, the 13th of March, you would've seen a host of ruby developers from all over the UK descended on the ancient city for the first ever Bath Ruby Conference held at the Assembly Halls. We couldn't miss such a fantastic sounding event so went along for a full day of talks, learning and socialising. 
+
+[![Bath Ruby Conference 2015](/images/bath-ruby-logo.png)](http://2015.bathruby.org/index.html)
+
+[![codebar organisers at Bath Ruby](/images/bathruby-intro.jpg)]()
+
+Let me tell you, we had an amazing time! We've met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein & Saron Yitbarek (yes, she is equally as nice in real life as she is on the [CodeNewbies](http://www.codenewbie.org/) podcasts). We talked to amazing developers (both novice and more experienced ones), listened to some truly inspiring talks and had the opportunity to introduce codebar on stage to the 500 strong crowd of developers. We enjoyed an alltogether lovely day in the beautiful city of Brighton.
+
+No conference 
+
+Linda Liukas ([@lindaliukas](https://twitter.com/lindaliukas)) introduced us to her book and how to intro 4 year olds to the world of sofware development
+
+Ben Orenstein ([@r00k](https://twitter.com/r00k))
+
+Saron Yitbarek ([@saronyitbarek](https://twitter.com/saronyitbarek))
+
+Katrina Owen
+
+Tom Stuart
+
+Sandi Metz ([@sandimetz](https://twitter.com/sandimetz))
+
+We'd like to thank for the organisers for putting together such an excellent event and for letting us spread the codebar word. Excellent job guys and we'll definitely be back next year for another round of amazing talks and general merriment.
+
