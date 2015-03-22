@@ -4,3 +4,29 @@
   background-image: url(/images/cover.jpg);
 }
 
+img {
+ max-width: 100%;
+}
+
+.post-footer .author {
+  margin-right: 100px;
+}
+
+.author {
+   font-family: "Open Sans",sans-serif;
+   display: inline-block;
+
+  img {
+    float: left;
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+
+  .vcard {
+    color: #9EABB3;
+    padding: 10px;
+    font-size: 1.5rem;
+  }
+}
