@@ -7,23 +7,23 @@ author: Kriszta Matyi
 categories: bath ruby conference
 ---
 
-If you happened to be in Bath last Friday, the 13th of March, you would've seen a host of ruby developers from all over the UK descended on the ancient city for the first ever [Bath Ruby Conference](http://2015.bathruby.org/) held at the Assembly Halls. We couldn't miss such a fantastic sounding event so went along for a full day of talks, learning and socialising.
+If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever [Bath Ruby Conference](http://2015.bathruby.org/) held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.
 
 [![Bath Ruby Conference 2015](/images/bath-ruby-logo.png)](http://2015.bathruby.org/index.html)
 
 [![codebar organisers at Bath Ruby](/images/bathruby-intro.jpg)]()
 
-Let me tell you, we had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the [CodeNewbies](http://www.codenewbie.org/) podcasts). We talked to amazing developers (both novice and more experienced ones), listened to some truly inspiring talks and had the opportunity to introduce [codebar](http://codebar.io/) on stage to the 500 strong crowd. We enjoyed an alltogether lovely day in the beautiful city of Bath.
+Let me tell you, we had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the [CodeNewbies](http://www.codenewbie.org/) podcasts). We talked to amazing developers (both novice and more experienced), listened to some truly inspiring talks and had the opportunity to introduce [Codebar](http://codebar.io/) on stage to the 500 strong crowd. We enjoyed an all together lovely, thought provoking day in the beautiful city of Bath.
 
-No conference would be what it is without and excellent lineup of speakers and topics, some of the highlight for us included:
+No conference would be what it is without and excellent lineup of speakers (commendably 4/6 speakers were female) and topics, some of the highlights for us included:
 
 Saron Yitbarek ([@saronyitbarek](https://twitter.com/saronyitbarek)) spoke about the importance of supporting each other as you learn to code and develop as a novice programmer, because for those who don't get started at university or a bootcamp, it can be difficult to stay motivated when learning independently. In addition, she emphasized the importance of reading codebases written by other people -- whether or not that code is "good" code -- as one of the fastest ways to grow as a developer.
 
-Katrina Owen ([@kytrinx](https://twitter.com/kytrinyx)), the founder of [exercism.io](http://www.exercism.io), gave a talk on legacy code and the choices developers face on a daily basis: whether what you are contributing is actually moving the project forward or holding it back. She offered an explanation using Game Theory as to why developers (even good developers) will occasionally write bad code, which was extremely interesting, and perhaps a little bit too true for any developer in the audience who have worked with legacy code!
+Katrina Owen ([@kytrinx](https://twitter.com/kytrinyx)), the founder of [exercism.io](http://www.exercism.io), gave a talk on legacy code and the choices developers face on a daily basis: whether what you are contributing is actually moving the project forward or holding it back. She offered an explanation using Game Theory as to why developers (even good developers) will occasionally write bad code, which was extremely interesting, and perhaps a little bit too true for any developer in the audience who had worked with legacy code!
 
 Tom Stuart's ([@tomstuart](https://twitter.com/tomstuart)) talk wove many disparate concepts together into a talk about mathematical abstraction in software development. Using disarmingly simple slides, he explained how a concept as seemingly straightforward as bartering apples and bananas can be abstracted and applied to writing complex pieces of code. However, he emphasized that not all abstraction is good -- abstraction is an effective means to an end when it is honest and minimal.
 
-And finally Sandi Metz's ([@sandimetz](https://twitter.com/sandimetz)) talk on nothing, and how sometimes nothing IS something. Her presentation featured an enormous diversity of Ruby topics, from metaprogramming to polymorphism to slightly off beat concepts like monkey-patching the Nil class. Although geared towards more advanced programmers, she made sure that even the novice programmers in the room could access her insights on object-oriented Ruby.
+And finally Sandi Metz's ([@sandimetz](https://twitter.com/sandimetz)) talk on nothing, and how sometimes nothing IS something. Her presentation featured an enormous diversity of Ruby topics, from metaprogramming to polymorphism to slightly off beat concepts like monkey-patching the Nil class. Although geared towards more advanced programmers, she ensured that new programmers in the room could access her insights on object-oriented Ruby.
 
-We'd like to thank for the organisers for putting together such an excellent event and for letting us spread the codebar word. Excellent job guys and we'll definitely be back next year for another round of amazing talks and general merriment.
+We would like to thank the Bath Ruby organisers for putting together such an excellent event and for letting us spread the Codebar word. They did an excellent job - creating a friendly, inclusive, diverse and inspiring event. We'll definitely be back next year for another round of amazing talks and general merriment.
 
