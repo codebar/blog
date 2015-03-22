@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Bath Ruby Conference 2015"
-date: 2015-03-16 22:18:48 +0000
+date: 2015-03-22 22:18:48 +0000
 comments: true
 author: Kriszta Matyi
+author_email: matyi.kriszta@gmail.com
 categories: bath ruby conference
 ---
 
