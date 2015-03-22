@@ -13,7 +13,7 @@ If you happened to be in Bath last Friday, the 13th of March, you would've seen 
 
 [![codebar organisers at Bath Ruby](/images/bathruby-intro.jpg)]()
 
-Let me tell you, we had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the [CodeNewbies](http://www.codenewbie.org/) podcasts). We talked to amazing developers (both novice and more experienced ones), listened to some truly inspiring talks and had the opportunity to introduce [codebar](http://codebar.io/) on stage to the 500 strong crowd. We enjoyed an alltogether lovely day in the beautiful city of Bath.
+We had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the [CodeNewbies](http://www.codenewbie.org/) podcasts). We talked to amazing developers (both novice and more experienced ones), listened to some truly inspiring talks and had the opportunity to introduce [codebar](http://codebar.io/) on stage to the 500 strong crowd. We enjoyed an alltogether lovely day in the beautiful city of Bath.
 
 No conference would be what it is without and excellent lineup of speakers and topics, some of the highlight for us included:
 
@@ -23,7 +23,7 @@ Katrina Owen ([@kytrinx](https://twitter.com/kytrinyx)), the founder of [exercis
 
 Tom Stuart's ([@tomstuart](https://twitter.com/tomstuart)) talk wove many disparate concepts together into a talk about mathematical abstraction in software development. Using disarmingly simple slides, he explained how a concept as seemingly straightforward as bartering apples and bananas can be abstracted and applied to writing complex pieces of code. However, he emphasized that not all abstraction is good -- abstraction is an effective means to an end when it is honest and minimal.
 
-And finally Sandi Metz's ([@sandimetz](https://twitter.com/sandimetz)) talk on nothing, and how sometimes nothing IS something. Her presentation featured an enormous diversity of Ruby topics, from metaprogramming to polymorphism to slightly off beat concepts like monkey-patching the Nil class. Although geared towards more advanced programmers, she made sure that even the novice programmers in the room could access her insights on object-oriented Ruby.
+And finally Sandi Metz's ([@sandimetz](https://twitter.com/sandimetz)) talk on nothing, and how sometimes nothing **is** something. Her presentation featured an enormous diversity of Ruby topics, from metaprogramming to polymorphism to slightly off beat concepts like monkey-patching the Nil class. Although geared towards more advanced programmers, she made sure that even the novice programmers in the room could access her insights on object-oriented Ruby.
 
-We'd like to thank for the organisers for putting together such an excellent event and for letting us spread the codebar word. Excellent job guys and we'll definitely be back next year for another round of amazing talks and general merriment.
+We would like to thank the conference organisers for putting together such an awesome event and for letting us spread the word about codebar. Excellent job! We are looking forward to coming back next year for another round of amazing talks and general merriment.
 
