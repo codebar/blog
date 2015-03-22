@@ -5,4 +5,18 @@
 {% else %}
   {% assign author = site.author %}
 {% endif %}
-{% if author %}<span class="byline author vcard">Posted by <span class="fn">{{ author }}</span></span>{% endif %}
+
+{% if post.author_email %}
+  {% assign author_email = post.author_email %}
+{% elsif page.author_email %}
+  {% assign author_email = page.author_email %}
+{% else %}
+  {% assign author_email = site.author_email %}
+{% endif %}
+
+{% if author %}
+<div class="author">
+  <img src='http://www.gravatar.com/avatar/{{ author_email | md5 }}'/>
+  <span class="byline author vcard">  <span class="fn">{{ author }}</span></span>
+</div>
+{% endif %}
