@@ -6,6 +6,7 @@ url: http://blog.codebar.io
 title: codebar
 subtitle: The blog
 author: Codebar
+author_email: hello@codebar.io
 simple_search: https://www.google.com/search
 description:
 
@@ -104,3 +105,4 @@ gosquared_tracking_code: 'GSN-107551-J'
 
 # Facebook Like
 facebook_like: true
+
