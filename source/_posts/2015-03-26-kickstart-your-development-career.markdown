@@ -8,11 +8,11 @@ author_email: matyi.kriszta@gmail.com
 categories: workshop codebar development career
 ---
 
-On the 16th of March a small group of aspiring developers came together at the [GoCardless](https://gocardless.com/) offfices in London for an evening event on how to Kickstart Your Development Career. The workshop, hosted by [Ali Najaf](https://twitter.com/alinajaf), was a three hour long presentation filled with practical knowledge and helful tips on how to get your first job in web development.
+On the 16th of March a small group of aspiring developers came together at the [GoCardless](https://gocardless.com/) offices in London for an evening event on how to Kickstart Your Development Career. The workshop, hosted by [Ali Najaf](https://twitter.com/alinajaf), was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.
 
 [![Kickstart your dev career](/images/kickstart-your-dev-career.jpg)]()
 
-The worskhop itself consisted of three 30 min sessions, each elaborating on a critical part of starting a career in web development.
+The workshop itself consisted of three 30 minute sessions, each elaborating on a critical part of starting a career in web development.
 
 In part one Ali explained how to build tech skills and what to learn as an aspiring developer. The main takeaway from this section was to focus on one specific language (be it Ruby or Python or Javascript) or web development topic. Learning through printed books is still one of the best ways to gain strong knowledge of a language. Another key learning point was not to be put off by the less visually welcoming stuff: it is important to learn how to use the command line, to understand how Git works, and to get familiar with concepts like control structures, algorithms and relational databases such as MySQL. These skills will become increasingly important later on in your career. As a way of measuring skills, Ali suggested building lots of small projects, quantity over quality being key. Seeing what you can build from scratch without checking the internet for reference is also a good way to understand how much you actually know.
 
