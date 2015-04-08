@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: london | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/london/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-04-08T13:09:29+01:00</updated>
-  <id>http://blog.codebar.io/blog/</id>
+  <link href="http://blog.codebar.io/tags/london/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/"/>
+  <updated>2015-04-08T13:13:34+01:00</updated>
+  <id>http://blog.codebar.io/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trans*Code London]]></title>
-    <link href="http://blog.codebar.io/blog/2015/02/22/transcode-london/"/>
+    <link href="http://blog.codebar.io/2015/02/22/transcode-london/"/>
     <updated>2015-02-22T15:19:28+00:00</updated>
-    <id>http://blog.codebar.io/blog/2015/02/22/transcode-london</id>
+    <id>http://blog.codebar.io/2015/02/22/transcode-london</id>
     <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
 
 <p><a href="http://trans-code.org"><img src="/images/trans-code.jpg" alt="Trans*Code" /></a></p>

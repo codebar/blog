@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/</loc>
+    <loc>http://blog.codebar.io/2015/03/26/kickstart-your-development-career/</loc>
     <lastmod>2015-03-26T20:06:04+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/03/22/bath-ruby/</loc>
+    <loc>http://blog.codebar.io/2015/03/22/bath-ruby/</loc>
     <lastmod>2015-03-22T22:18:48+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/02/22/transcode-london/</loc>
+    <loc>http://blog.codebar.io/2015/02/22/transcode-london/</loc>
     <lastmod>2015-02-22T15:19:28+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/archives/</loc>
-    <lastmod>2015-04-08T13:09:29+01:00</lastmod>
+    <loc>http://blog.codebar.io/archives/</loc>
+    <lastmod>2015-04-08T13:13:34+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/</loc>
-    <lastmod>2015-04-08T13:09:29+01:00</lastmod>
+    <loc>http://blog.codebar.io/</loc>
+    <lastmod>2015-04-08T13:13:34+01:00</lastmod>
   </url>
 </urlset>
