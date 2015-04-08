@@ -8,7 +8,7 @@ author_email: matyi.kriszta@gmail.com
 categories: workshop codebar development career
 ---
 
-On the 16th of March a small group of aspiring developers came together at the [GoCardless](https://gocardless.com/) offices in London for an evening event on how to [Kickstart Your Development Career](http://codebar.io/courses/kickstart-your-developer-career). The workshop, run by [Ali Najaf](https://twitter.com/alinajaf), was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.
+On the 16th of March a small group of aspiring developers came together at the [GoCardless](https://gocardless.com/) offices in London for an evening event on how to [Kickstart Your Development Career](http://codebar.io/courses/kickstart-your-developer-career). The workshop, run by [Najaf Ali](https://twitter.com/alinajaf), was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.
 
 [![Kickstart your dev career](/images/kickstart-your-dev-career.jpg)]()
 
