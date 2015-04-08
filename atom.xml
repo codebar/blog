@@ -1,90 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta charset="utf-8">
-	<title>codebar</title>
-
-	<meta name="author" content="Codebar">
-	
-	<meta name="description" content="26 Mar 2015 Kickstart Your Development Career On the 16th of March a small group of aspiring developers came together at the GoCardless offices in &hellip;">
-
-	<meta name="HandheldFriendly" content="True" />
-	<meta name="MobileOptimized" content="320" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-	<link href="/atom.xml" rel="alternate" title="codebar" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Open+Sans:700,400" />
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css" />
-
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-60021561-1']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-
-
-
-  <script type="text/javascript">
-    !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
-    arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
-    d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
-    insertBefore(d,q)}(window,document,'script','_gs');
-
-    _gs('GSN-107551-J');
-  </script>
-
-
-
-</head>
-
-
-<body class="home-template">
-  <header id="site-head">
-  <div class="vertical">
-    <div id="site-head-content" class="inner">
-      <h1 class="blog-title"><a class="no-rollover" href="/">codebar</a></h1>
-      <h2 class="blog-description">The blog</h2>
-    </div>
-  </div>
-</header>
-  <main class="content" role="main">
+  <title><![CDATA[codebar]]></title>
+  <link href="http://blog.codebar.io/blog/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-04-08T13:09:29+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
+  <author>
+    <name><![CDATA[Codebar]]></name>
     
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-    <article class="post">
-      
-	
-		
-	
-	<header class="post-header">
-		<span class="post-meta">26 Mar 2015</span>
-		<h2 class="post-title">
-			
-			<a href="/2015/03/26/kickstart-your-development-career/">
-			
-				Kickstart Your Development Career</a>
-		</h2>
-	</header>
-	<section class="post-excerpt">
-		<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>, run by <a href="https://twitter.com/alinajaf">Ali Najaf</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
+  <entry>
+    <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
+    <link href="http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/"/>
+    <updated>2015-03-26T20:06:04+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career</id>
+    <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>, run by <a href="https://twitter.com/alinajaf">Ali Najaf</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
 
-<p><a href=""><img src="/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
 
 <p>The workshop consisted of three 30 minute sessions, each elaborating on a critical part of starting a career in web development.</p>
 
@@ -95,31 +31,19 @@
 <p>Part three was concerned with the actual process of getting a job. Once again, we received a lot of useful tips from how to find job openings (it&rsquo;s always best if they come to you) to what to put on your CV. The most important lesson from this section was to have a plan: know what type of company you want to work for and target them specifically. Be confident in your skills and in your worth. Finally, be interested in the company and job you are applying for - genuine enthusiasm for the position and the company goes a long way.</p>
 
 <p>All in all it was a very informative and helpful evening for the newbie programmers in attendance. If you are an aspiring developer keen on getting your first job in the industry or if you are one of the attendees and want to revisit the content of the workshop you can get the <a href="http://www.happybearsoftware.com/kickstart-your-developer-career">Kickstart Your Developer Career</a> book by signing up to <a href="http://www.happybearsoftware.com/kickstart-your-developer-career">this</a> mailing list.</p>
-
-	</section>
-
-
-    </article>
-
+]]></content>
+  </entry>
   
-    <article class="post">
-      
-	
-	<header class="post-header">
-		<span class="post-meta">22 Mar 2015</span>
-		<h2 class="post-title">
-			
-			<a href="/2015/03/22/bath-ruby/">
-			
-				Bath Ruby Conference 2015</a>
-		</h2>
-	</header>
-	<section class="post-excerpt">
-		<p>If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever <a href="http://2015.bathruby.org/">Bath Ruby Conference</a> held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.</p>
+  <entry>
+    <title type="html"><![CDATA[Bath Ruby Conference 2015]]></title>
+    <link href="http://blog.codebar.io/blog/2015/03/22/bath-ruby/"/>
+    <updated>2015-03-22T22:18:48+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/22/bath-ruby</id>
+    <content type="html"><![CDATA[<p>If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever <a href="http://2015.bathruby.org/">Bath Ruby Conference</a> held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.</p>
 
-<p><a href="http://2015.bathruby.org/index.html"><img src="/images/bath-ruby-logo.png" alt="Bath Ruby Conference 2015" /></a></p>
+<p><a href="http://2015.bathruby.org/index.html"><img src="http://blog.codebar.io/blog/images/bath-ruby-logo.png" alt="Bath Ruby Conference 2015" /></a></p>
 
-<p><a href=""><img src="/images/bathruby-intro.jpg" alt="codebar organisers at Bath Ruby" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/bathruby-intro.jpg" alt="codebar organisers at Bath Ruby" /></a></p>
 
 <p>Let me tell you, we had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the <a href="http://www.codenewbie.org/">CodeNewbies</a> podcasts). We talked to amazing developers (both novice and more experienced), listened to some truly inspiring talks and had the opportunity to introduce <a href="http://codebar.io/">Codebar</a> on stage to the 500 strong crowd. We enjoyed an all together lovely, thought provoking day in the beautiful city of Bath.</p>
 
@@ -134,29 +58,17 @@
 <p>And finally Sandi Metz&rsquo;s (<a href="https://twitter.com/sandimetz">@sandimetz</a>) talk on nothing, and how sometimes nothing IS something. Her presentation featured an enormous diversity of Ruby topics, from metaprogramming to polymorphism to slightly off beat concepts like monkey-patching the Nil class. Although geared towards more advanced programmers, she ensured that new programmers in the room could access her insights on object-oriented Ruby.</p>
 
 <p>We would like to thank the Bath Ruby organisers for putting together such an excellent event and for letting us spread the Codebar word. They did an excellent job - creating a friendly, inclusive, diverse and inspiring event. We&rsquo;ll definitely be back next year for another round of amazing talks and general merriment.</p>
-
-	</section>
-
-
-    </article>
-
+]]></content>
+  </entry>
   
-    <article class="post">
-      
-	
-	<header class="post-header">
-		<span class="post-meta">22 Feb 2015</span>
-		<h2 class="post-title">
-			
-			<a href="/2015/02/22/transcode-london/">
-			
-				Trans*Code London</a>
-		</h2>
-	</header>
-	<section class="post-excerpt">
-		<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
+  <entry>
+    <title type="html"><![CDATA[Trans*Code London]]></title>
+    <link href="http://blog.codebar.io/blog/2015/02/22/transcode-london/"/>
+    <updated>2015-02-22T15:19:28+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/02/22/transcode-london</id>
+    <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
 
-<p><a href="http://trans-code.org"><img src="/images/trans-code.jpg" alt="Trans*Code" /></a></p>
+<p><a href="http://trans-code.org"><img src="http://blog.codebar.io/blog/images/trans-code.jpg" alt="Trans*Code" /></a></p>
 
 <p>Trans*Code is a beginner friendly hack event focused on bringing together trans, non-binary, allies, coders, designers and visionaries and drawing attention to transgender issues and opportunities.</p>
 
@@ -167,70 +79,7 @@
 <p>If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology <a href="https://www.eventbrite.com/e/transcode-tickets-15831761224">sign up as a participant or volunteer to mentor</a>.</p>
 
 <p>To keep up-to-date with Trans*Code events, follow <a href="http://twitter.com/trans_code">@trans_code</a> on twitter and subscribe to the <a href="https://twitter.com/hashtag/trans_code?src=hash">event hashtag</a>.</p>
-
-	</section>
-
-
-    </article>
-
-
-<nav class="pagination" role="pagination">
+]]></content>
+  </entry>
   
-
-  <span class="page-number">
-    Page 1 of 1
-  </span>
-
-  
-</nav>
-
-
-  </main>
-  <footer class="site-footer"><a class="subscribe icon-feed" href="http://blog.codebar.io/blog/atom.xml"><span class="tooltip">Subscribe!</span></a>
-
-
-<div class="inner">
-
-
-Follow me on
-
-
-
-<a class="social twitter" href="http://twitter.com/codebar" title="Twitter">Twitter</a>
-
-
-
-<a class="social github" href="http://github.com/codebar" title="GitHub">GitHub</a>
-
-
-
-
-<section class="copyright">All content copyright <a href="/">Codebar</a> © 2015 • All rights reserved.</section>
-
-<section class="poweredby">Casper theme by <a class="icon-ghost" href="http://tryghost.org">Ghost</a> &amp; Published with <a href="http://octopress.org">Octopress</a></section>
-
-</div>
-</footer>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad()</script>
-
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'codebar-blog';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-</body>
-</html>
+</feed>
