@@ -20,5 +20,5 @@ Then as normal students and coaches were matched up for the 2 hour workshop.
 
 We would like to thank Pact Coffee for donating their venue for this event. And another huge thank you to Hire Space for their generous donation towards this event.
 
-Without the generous donations of both [Pact](https://www.pactcoffee.com) and [Hire Space](https://hirespace.com/?gclid=Cj0KEQjwpM2pBRChsZCzm_CU0t4BEiQAxDVFmoVdg-3OBbHcEDkZkhINZ3SCBMt8xS7BmhOrN7XINaQaAj3Y8P8HAQ) this event would not have happened. If you are a company in South London and would like to sponsor an event, or donate your venue for the evening, then please get in contact at london@codebar.io
+Without the generous donations of both [Pact](https://www.pactcoffee.com) and [Hire Space](https://hirespace.com) this event would not have happened. If you are a company in South London and would like to sponsor an event, or donate your venue for the evening, then please get in contact at [south-london@codebar.io](mailto:south-london@codebar.io)
 
