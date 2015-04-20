@@ -4,7 +4,7 @@
   <title><![CDATA[codebar]]></title>
   <link href="http://blog.codebar.io/atom.xml" rel="self"/>
   <link href="http://blog.codebar.io/"/>
-  <updated>2015-04-08T16:04:39+01:00</updated>
+  <updated>2015-04-20T17:55:01+02:00</updated>
   <id>http://blog.codebar.io/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
@@ -14,9 +14,30 @@
 
   
   <entry>
+    <title type="html"><![CDATA[South London codebar]]></title>
+    <link href="http://blog.codebar.io/2015/04/19/south-london-codebar/"/>
+    <updated>2015-04-19T13:13:48+02:00</updated>
+    <id>http://blog.codebar.io/2015/04/19/south-london-codebar</id>
+    <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightening talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
+
+<p>The lightening talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
+
+<p><a href=""><img src="http://blog.codebar.io/images/tony-sl-talk.jpg" alt="Tony To" /></a></p>
+
+<p>Then as normal students and coaches were matched up for the 2 hour workshop.</p>
+
+<p><a href=""><img src="http://blog.codebar.io/images/pact-coffee.jpg" alt="Pact Coffee" /></a></p>
+
+<p>We would like to thank Pact Coffee for donating their venue for this event. And another huge thank you to Hire Space for their generous donation towards this event.</p>
+
+<p>Without the generous donations of both <a href="https://www.pactcoffee.com">Pact</a> and <a href="https://hirespace.com/?gclid=Cj0KEQjwpM2pBRChsZCzm_CU0t4BEiQAxDVFmoVdg-3OBbHcEDkZkhINZ3SCBMt8xS7BmhOrN7XINaQaAj3Y8P8HAQ">Hire Space</a> this event would not have happened. If you are a company in South London and would like to sponsor an event, or donate your venue for the evening, then please get in contact at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#108;&#111;&#x6e;&#x64;&#x6f;&#x6e;&#x40;&#99;&#111;&#x64;&#x65;&#x62;&#97;&#114;&#46;&#105;&#x6f;">&#108;&#111;&#x6e;&#x64;&#111;&#x6e;&#64;&#99;&#111;&#100;&#x65;&#98;&#x61;&#114;&#46;&#x69;&#x6f;</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
     <link href="http://blog.codebar.io/2015/03/26/kickstart-your-development-career/"/>
-    <updated>2015-03-26T20:06:04+00:00</updated>
+    <updated>2015-03-26T21:06:04+01:00</updated>
     <id>http://blog.codebar.io/2015/03/26/kickstart-your-development-career</id>
     <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>. The workshop, run by <a href="https://twitter.com/alinajaf">Najaf Ali</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
 
@@ -37,7 +58,7 @@
   <entry>
     <title type="html"><![CDATA[Bath Ruby Conference 2015]]></title>
     <link href="http://blog.codebar.io/2015/03/22/bath-ruby/"/>
-    <updated>2015-03-22T22:18:48+00:00</updated>
+    <updated>2015-03-22T23:18:48+01:00</updated>
     <id>http://blog.codebar.io/2015/03/22/bath-ruby</id>
     <content type="html"><![CDATA[<p>If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever <a href="http://2015.bathruby.org/">Bath Ruby Conference</a> held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.</p>
 
@@ -64,7 +85,7 @@
   <entry>
     <title type="html"><![CDATA[Trans*Code London]]></title>
     <link href="http://blog.codebar.io/2015/02/22/transcode-london/"/>
-    <updated>2015-02-22T15:19:28+00:00</updated>
+    <updated>2015-02-22T16:19:28+01:00</updated>
     <id>http://blog.codebar.io/2015/02/22/transcode-london</id>
     <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
 
