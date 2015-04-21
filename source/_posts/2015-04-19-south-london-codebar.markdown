@@ -10,7 +10,7 @@ categories: codebar south-london development
 
 Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at [Pact Coffee HQ](https://www.pactcoffee.com). The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.
 
-The lightening talk was given by Tony To, tech lead at Pact Coffee, about... you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.
+The lightning talk was given by Tony To, tech lead at Pact Coffee, about... you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.
 
 [![Tony To](/images/tony-sl-talk.jpg)]()
 
