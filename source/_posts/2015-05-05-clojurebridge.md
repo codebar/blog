@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Clojurebridge London"
+date: 2015-05-05 22:51:00 +0000
+comments: true
+author: Denise Yu
+author_email: yu.denise.d@gmail.com
+categories: clojure clojurebridge
+---
+
+
 On Saturday April 18, Kriszta, Jarkyn, and Denise took part in London's first-ever [Clojurebridge](www.clojurebridge.org) workshop, hosted at uSwitch's sunny offices in Southwark. We learned TONS of Clojure -- our brains were mush by the end of the day! -- and were able to experience how a workshop can successfully cater for many different experience levels. The students participating in the workshop came from all different backgrounds. Some were full-time developers looking to pick up some functional programming as a hobby; others were newcomers to coding altogether.
 
 As newcomers to functional programming, we quickly realized that we would need to think about problem-solving in a completely different way if we were to become good Clojure developers. Unlike object-oriented languages such as Ruby or Javascript (most of the time..), functions are first-class citizens in Clojure -- quite literally, because the function precedes each list. Because objects don't exist in the same way as Ruby objects, they can't hold state. As a result, data passed into a Clojure function is processed in a consistent, predictable way. Clojure can also developed with fast feedback cycles because it is richly supported by instant REPLs in several editors. An interesting side effect of this is that, while Test Driven Development (TDD) has many evangelists in Ruby and Java communities, TDD did not seem to have the same following in the Clojure community.
