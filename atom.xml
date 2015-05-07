@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[codebar]]></title>
-  <link href="http://blog.codebar.io/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/"/>
-  <updated>2015-04-21T17:38:24+02:00</updated>
-  <id>http://blog.codebar.io/</id>
+  <link href="http://blog.codebar.io/blog/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-05-07T15:04:57+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -14,19 +14,46 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Clojurebridge London]]></title>
+    <link href="http://blog.codebar.io/blog/2015/05/05/clojurebridge/"/>
+    <updated>2015-05-05T23:51:00+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/05/05/clojurebridge</id>
+    <content type="html"><![CDATA[<p>On Saturday April 18, Kriszta, Jarkyn, and Denise took part in London&rsquo;s first-ever <a href="www.clojurebridge.org">Clojurebridge</a> workshop, hosted at uSwitch&rsquo;s sunny offices in Southwark. We learned TONS of Clojure &ndash; our brains were mush by the end of the day! &ndash; and were able to experience how a workshop can successfully cater for many different experience levels. The students participating in the workshop came from all different backgrounds. Some were full-time developers looking to pick up some functional programming as a hobby; others were newcomers to coding altogether.</p>
+
+<p>As newcomers to functional programming, we quickly realized that we would need to think about problem-solving in a completely different way if we were to become good Clojure developers. Unlike object-oriented languages such as Ruby or Javascript (most of the time..), functions are first-class citizens in Clojure &ndash; quite literally, because the function precedes each list. Because objects don&rsquo;t exist in the same way as Ruby objects, they can&rsquo;t hold state. As a result, data passed into a Clojure function is processed in a consistent, predictable way. Clojure can also developed with fast feedback cycles because it is richly supported by instant REPLs in several editors. An interesting side effect of this is that, while Test Driven Development (TDD) has many evangelists in Ruby and Java communities, TDD did not seem to have the same following in the Clojure community.</p>
+
+<p>We worked our way through the Clojurebridge tutorials relatively quickly, then spent lots of time experimenting with our new skills. We wired together a basic web API and practiced making requests to some public APIs, which is where Clojure really steps up to bat. I was sold on Clojure when I saw how elegantly and efficiently you can traverse an HTTP response.</p>
+
+<p>But, a blog post on Clojurebridge would be incomplete without a shoutout to the amount of hospitality we received! The organisers, sponsors, and hosts made sure there was no chance of us going hungry at any point. A constant stream of bagels, fruit, cheese, sandwiches, coffee, tea, and beer kept us caffeinated and energized. Codebar has to step up our game now&hellip; :)</p>
+
+<p>For anyone interested in learning Clojure, there are a wealth of resources online. Here are a small handful of them:</p>
+
+<ul>
+<li><a href="http://clojurebridge.github.io/curriculum/#/">Clojurebridge Tutorials</a></li>
+<li><a href="http://clojurekoans.com/">Clojure Koans</a></li>
+<li><a href="http://www.4clojure.com/">4Clojure</a></li>
+<li><a href="http://learn-clojure.com/">Learn Clojure</a></li>
+</ul>
+
+
+<p>For information on Clojurebridge London and their upcoming events, check out their <a href="http://www.clojurebridge.org/#events">official website</a>. There is also a vibrant community of <a href="http://www.londonclojurians.org/">London Clojurians</a> who hold weekly meetups in various formats.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[South London codebar]]></title>
-    <link href="http://blog.codebar.io/2015/04/19/south-london-codebar/"/>
-    <updated>2015-04-19T13:13:48+02:00</updated>
-    <id>http://blog.codebar.io/2015/04/19/south-london-codebar</id>
+    <link href="http://blog.codebar.io/blog/2015/04/19/south-london-codebar/"/>
+    <updated>2015-04-19T12:13:48+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/04/19/south-london-codebar</id>
     <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
 
-<p>The lightening talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
+<p>The lightning talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
 
-<p><a href=""><img src="http://blog.codebar.io/images/tony-sl-talk.JPG" alt="Tony To" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/tony-sl-talk.jpg" alt="Tony To" /></a></p>
 
 <p>Then as normal students and coaches were matched up for the 2 hour workshop.</p>
 
-<p><a href=""><img src="http://blog.codebar.io/images/pact-coffee.JPG" alt="Pact Coffee" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/pact-coffee.jpg" alt="Pact Coffee" /></a></p>
 
 <p>We would like to thank Pact Coffee for donating their venue for this event. And another huge thank you to Hire Space for their generous donation towards this event.</p>
 
@@ -36,12 +63,12 @@
   
   <entry>
     <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
-    <link href="http://blog.codebar.io/2015/03/26/kickstart-your-development-career/"/>
-    <updated>2015-03-26T21:06:04+01:00</updated>
-    <id>http://blog.codebar.io/2015/03/26/kickstart-your-development-career</id>
+    <link href="http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/"/>
+    <updated>2015-03-26T20:06:04+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career</id>
     <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>. The workshop, run by <a href="https://twitter.com/alinajaf">Najaf Ali</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
 
-<p><a href=""><img src="http://blog.codebar.io/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
 
 <p>The workshop consisted of three 30 minute sessions, each elaborating on a critical part of starting a career in web development.</p>
 
@@ -57,14 +84,14 @@
   
   <entry>
     <title type="html"><![CDATA[Bath Ruby Conference 2015]]></title>
-    <link href="http://blog.codebar.io/2015/03/22/bath-ruby/"/>
-    <updated>2015-03-22T23:18:48+01:00</updated>
-    <id>http://blog.codebar.io/2015/03/22/bath-ruby</id>
+    <link href="http://blog.codebar.io/blog/2015/03/22/bath-ruby/"/>
+    <updated>2015-03-22T22:18:48+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/22/bath-ruby</id>
     <content type="html"><![CDATA[<p>If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever <a href="http://2015.bathruby.org/">Bath Ruby Conference</a> held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.</p>
 
-<p><a href="http://2015.bathruby.org/index.html"><img src="http://blog.codebar.io/images/bath-ruby-logo.png" alt="Bath Ruby Conference 2015" /></a></p>
+<p><a href="http://2015.bathruby.org/index.html"><img src="http://blog.codebar.io/blog/images/bath-ruby-logo.png" alt="Bath Ruby Conference 2015" /></a></p>
 
-<p><a href=""><img src="http://blog.codebar.io/images/bathruby-intro.jpg" alt="codebar organisers at Bath Ruby" /></a></p>
+<p><a href=""><img src="http://blog.codebar.io/blog/images/bathruby-intro.jpg" alt="codebar organisers at Bath Ruby" /></a></p>
 
 <p>Let me tell you, we had an amazing time! We met some of our coding heroes, most notably Sandi Metz, Katrina Owens, Ben Orenstein and Saron Yitbarek (yes, she is equally as nice in real life as she is on the <a href="http://www.codenewbie.org/">CodeNewbies</a> podcasts). We talked to amazing developers (both novice and more experienced), listened to some truly inspiring talks and had the opportunity to introduce <a href="http://codebar.io/">Codebar</a> on stage to the 500 strong crowd. We enjoyed an all together lovely, thought provoking day in the beautiful city of Bath.</p>
 
@@ -84,12 +111,12 @@
   
   <entry>
     <title type="html"><![CDATA[Trans*Code London]]></title>
-    <link href="http://blog.codebar.io/2015/02/22/transcode-london/"/>
-    <updated>2015-02-22T16:19:28+01:00</updated>
-    <id>http://blog.codebar.io/2015/02/22/transcode-london</id>
+    <link href="http://blog.codebar.io/blog/2015/02/22/transcode-london/"/>
+    <updated>2015-02-22T15:19:28+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/02/22/transcode-london</id>
     <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
 
-<p><a href="http://trans-code.org"><img src="http://blog.codebar.io/images/trans-code.jpg" alt="Trans*Code" /></a></p>
+<p><a href="http://trans-code.org"><img src="http://blog.codebar.io/blog/images/trans-code.jpg" alt="Trans*Code" /></a></p>
 
 <p>Trans*Code is a beginner friendly hack event focused on bringing together trans, non-binary, allies, coders, designers and visionaries and drawing attention to transgender issues and opportunities.</p>
 

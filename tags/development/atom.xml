@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: development | codebar]]></title>
-  <link href="http://blog.codebar.io/tags/development/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/"/>
-  <updated>2015-04-21T17:38:24+02:00</updated>
-  <id>http://blog.codebar.io/</id>
+  <link href="http://blog.codebar.io/blog/tags/development/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-05-07T15:04:57+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[South London codebar]]></title>
-    <link href="http://blog.codebar.io/2015/04/19/south-london-codebar/"/>
-    <updated>2015-04-19T13:13:48+02:00</updated>
-    <id>http://blog.codebar.io/2015/04/19/south-london-codebar</id>
+    <link href="http://blog.codebar.io/blog/2015/04/19/south-london-codebar/"/>
+    <updated>2015-04-19T12:13:48+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/04/19/south-london-codebar</id>
     <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
 
-<p>The lightening talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
+<p>The lightning talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
 
-<p><a href=""><img src="/images/tony-sl-talk.JPG" alt="Tony To" /></a></p>
+<p><a href=""><img src="/images/tony-sl-talk.jpg" alt="Tony To" /></a></p>
 
 <p>Then as normal students and coaches were matched up for the 2 hour workshop.</p>
 
-<p><a href=""><img src="/images/pact-coffee.JPG" alt="Pact Coffee" /></a></p>
+<p><a href=""><img src="/images/pact-coffee.jpg" alt="Pact Coffee" /></a></p>
 
 <p>We would like to thank Pact Coffee for donating their venue for this event. And another huge thank you to Hire Space for their generous donation towards this event.</p>
 
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
-    <link href="http://blog.codebar.io/2015/03/26/kickstart-your-development-career/"/>
-    <updated>2015-03-26T21:06:04+01:00</updated>
-    <id>http://blog.codebar.io/2015/03/26/kickstart-your-development-career</id>
+    <link href="http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/"/>
+    <updated>2015-03-26T20:06:04+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career</id>
     <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>. The workshop, run by <a href="https://twitter.com/alinajaf">Najaf Ali</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
 
 <p><a href=""><img src="/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
