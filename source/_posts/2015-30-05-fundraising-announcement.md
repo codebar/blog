@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Fundraising Announcement"
-date: 2015-30-05 17:55:00 +0000
+date: 2015-06-01 09:55:00 +0000
 comments: true
 author: Denise Yu
 author_email: yu.denise.d@gmail.com
