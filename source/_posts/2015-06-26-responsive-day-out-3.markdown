@@ -68,6 +68,6 @@ Before the web, if you heard lyrics on the radio you couldn’t just google the 
 
 Lyza mentioned that she loved the word ‘developer’ which is something that resonated with some of the Codebar students, it is great to be able to develop and carry out ideas. She spoke about how it takes bravery to feel like a beginner again and again as changes happen in the web. It is comforting to know that everyone feels out of their depth at times when learning.
 
-**Conclusion **
+**Conclusion**
 
 Responsive Day Out was a fabulous experience and we are slightly sad that this was the last one! Thank you very much to Clearleft and all the speakers. We came a way with a lot to think about and plenty of ideas to incorporate into our own projects.
