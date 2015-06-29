@@ -5,7 +5,7 @@ date: 2015-06-17 22:17:50 +0100
 comments: true
 author: Kimberley Cook
 author_email: kimberleycook91@gmail.com
-categories: london mind-the-code codebar
+categories: london mind-the-code
 ---
 
 On Saturday 4th June we organised Mind the Code, a day dedicated to mindfulness. Our aim was to run a slightly different event to anything we have ever ran before, where the day consisted of talks, workshops and yoga.
