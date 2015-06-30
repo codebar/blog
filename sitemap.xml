@@ -1,65 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.codebar.io/blog/2015/05/05/clojurebridge/</loc>
+    <loc>http://blog.codebar.io/2015/06/17/mind-the-code/</loc>
+    <lastmod>2015-06-17T22:17:50+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/2015/05/24/london-codebars/</loc>
+    <lastmod>2015-05-24T17:35:38+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/2015/05/05/clojurebridge/</loc>
     <lastmod>2015-05-05T23:51:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/04/19/south-london-codebar/</loc>
+    <loc>http://blog.codebar.io/2015/04/19/south-london-codebar/</loc>
     <lastmod>2015-04-19T12:13:48+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/</loc>
+    <loc>http://blog.codebar.io/2015/03/26/kickstart-your-development-career/</loc>
     <lastmod>2015-03-26T20:06:04+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/03/22/bath-ruby/</loc>
+    <loc>http://blog.codebar.io/2015/03/22/bath-ruby/</loc>
     <lastmod>2015-03-22T22:18:48+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/02/22/transcode-london/</loc>
+    <loc>http://blog.codebar.io/2015/02/22/transcode-london/</loc>
     <lastmod>2015-02-22T15:19:28+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/archives/</loc>
+    <loc>http://blog.codebar.io/archives/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/</loc>
+    <loc>http://blog.codebar.io/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/london/</loc>
+    <loc>http://blog.codebar.io/tags/london/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/trans-code/</loc>
+    <loc>http://blog.codebar.io/tags/trans-code/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/bath/</loc>
+    <loc>http://blog.codebar.io/tags/bath/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/ruby/</loc>
+    <loc>http://blog.codebar.io/tags/ruby/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/conference/</loc>
+    <loc>http://blog.codebar.io/tags/conference/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/workshop/</loc>
+    <loc>http://blog.codebar.io/tags/workshop/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/codebar/</loc>
+    <loc>http://blog.codebar.io/tags/codebar/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/development/</loc>
+    <loc>http://blog.codebar.io/tags/development/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/career/</loc>
+    <loc>http://blog.codebar.io/tags/career/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/south-london/</loc>
+    <loc>http://blog.codebar.io/tags/south-london/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/clojure/</loc>
+    <loc>http://blog.codebar.io/tags/clojure/</loc>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/tags/clojurebridge/</loc>
+    <loc>http://blog.codebar.io/tags/clojurebridge/</loc>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/tags/mind-the-code/</loc>
   </url>
 </urlset>

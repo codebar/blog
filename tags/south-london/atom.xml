@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: south-london | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/south-london/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-05-20T10:16:50+01:00</updated>
-  <id>http://blog.codebar.io/blog/</id>
+  <link href="http://blog.codebar.io/tags/south-london/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/"/>
+  <updated>2015-06-30T18:27:34+01:00</updated>
+  <id>http://blog.codebar.io/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -14,10 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[London codebars]]></title>
+    <link href="http://blog.codebar.io/2015/05/24/london-codebars/"/>
+    <updated>2015-05-24T17:35:38+01:00</updated>
+    <id>http://blog.codebar.io/2015/05/24/london-codebars</id>
+    <content type="html"><![CDATA[<p>The aim of this post is to clear up some confusion regarding the East London and South London codebar workshops.</p>
+
+<p>As a coach or student, you have to sign up to the workshops seperately via the website. This means if you want to go on the East London workshop, sign up to this one. This means you will not receive invites for the South London workshop, and vice-versa. If you want to attend both workshops, you need to sign up to them seperately. This will mean you will start receiving invites for both London workshops. BUT, please do not then confirm attendance for both if they are on the same day. We do not have time to go through names and remove you from a list. So please bear this in mind when confirming your attendance for a workshop.</p>
+
+<p>On another note we have been nominated for Grassroots Event of the Year award at the net awards. This is an amazing achievement for us as it is nominated by you. So if you have a spare 10 seconds please (<a href="https://thenetawards.com/vote/grassroots/codebar/">vote for us</a>).</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[South London codebar]]></title>
-    <link href="http://blog.codebar.io/blog/2015/04/19/south-london-codebar/"/>
+    <link href="http://blog.codebar.io/2015/04/19/south-london-codebar/"/>
     <updated>2015-04-19T12:13:48+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/04/19/south-london-codebar</id>
+    <id>http://blog.codebar.io/2015/04/19/south-london-codebar</id>
     <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
 
 <p>The lightning talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
