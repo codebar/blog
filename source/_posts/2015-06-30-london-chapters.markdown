@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Announcing West London chapter"
-date: 2015-06-30 17:46:19 +0100
+date: 2015-07-6 17:46:19 +0100
 comments: true
 author: Kimberley Cook, Kriszta Matyi
 author_email: kimberleycook91@gmail.com, matyi.kriszta@gmail.com
 categories: codebar south-london west-london london
 ---
-
-Dear codebarians,
 
 Thanks to your enthusiasm, codebar London has expanded rapidly in the past couple of months. I’m sure you have noticed the waiting list getting longer every week and the number of attendees per event rising steadily lately. Not only that, London is a massive city with students and coaches living scattered around it’s area, with some people having to travel up to an hour to attend certain workshops. This obviously is not an ideal situation as we want our workshops to be easily accessible by the most number of students, with a number of attendees at each workshop that is still manageable by us (the organisers) and is not a hindrance to learning (taking too long to organiser ourselves, etc...). 
 
