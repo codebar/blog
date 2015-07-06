@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: workshop | codebar]]></title>
+  <link href="http://blog.codebar.io/blog/tags/workshop/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-07-06T10:54:53+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
+  <author>
+    <name><![CDATA[Codebar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
+    <link href="http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/"/>
+    <updated>2015-03-26T20:06:04+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career</id>
+    <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>. The workshop, run by <a href="https://twitter.com/alinajaf">Najaf Ali</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
+
+<p><a href=""><img src="/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>
+
+<p>The workshop consisted of three 30 minute sessions, each elaborating on a critical part of starting a career in web development.</p>
+
+<p>In part one, Ali explained how to build tech skills and what to learn as an aspiring developer. The main takeaway from this section was to focus on one specific language (be it Ruby or Python or Javascript) or web development topic. Learning through printed books is still one of the best ways to gain strong knowledge of a language. Another key learning point was not to be put off by the less visually welcoming stuff: it is important to learn how to use the command line, to understand how Git works, and to get familiar with concepts like control structures, algorithms and relational databases such as MySQL. These skills will become increasingly important later on in your career. As a way of measuring skills, Ali suggested building lots of small projects, quantity over quality being key. Seeing what you can build from scratch without checking the internet for reference is also a good way to understand how much you actually know.</p>
+
+<p>In part two Ali gave us tips on how to build influence and create a network in the tech industry. Going to meet ups and conferences is an excellent way to meet new people. Even better is talking at these events as these appearances can position you as an expert on a certain topic. Another way to build influence is to write a blog. Don&rsquo;t be afraid of coming off as an amateur - even the most basic piece of information can be useful to someone just getting into development. Another important point from this section was to have a couple of your best projects - around 2 to 3 - online and in a state where you can show them off to prospective employers at a moment&rsquo;s notice. And finally, on your personal website clearly state that you are available for work if that is the case.</p>
+
+<p>Part three was concerned with the actual process of getting a job. Once again, we received a lot of useful tips from how to find job openings (it&rsquo;s always best if they come to you) to what to put on your CV. The most important lesson from this section was to have a plan: know what type of company you want to work for and target them specifically. Be confident in your skills and in your worth. Finally, be interested in the company and job you are applying for - genuine enthusiasm for the position and the company goes a long way.</p>
+
+<p>All in all it was a very informative and helpful evening for the newbie programmers in attendance. If you are an aspiring developer keen on getting your first job in the industry or if you are one of the attendees and want to revisit the content of the workshop you can get the <a href="http://www.happybearsoftware.com/kickstart-your-developer-career">Kickstart Your Developer Career</a> book by signing up to <a href="http://www.happybearsoftware.com/kickstart-your-developer-career">this</a> mailing list.</p>
+]]></content>
+  </entry>
+  
+</feed>
