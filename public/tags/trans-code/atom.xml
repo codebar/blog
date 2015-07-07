@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: trans-code | codebar]]></title>
+  <link href="http://blog.codebar.io/blog/tags/trans-code/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-07-06T10:54:53+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
+  <author>
+    <name><![CDATA[Codebar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trans*Code London]]></title>
+    <link href="http://blog.codebar.io/blog/2015/02/22/transcode-london/"/>
+    <updated>2015-02-22T15:19:28+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/02/22/transcode-london</id>
+    <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
+
+<p><a href="http://trans-code.org"><img src="/images/trans-code.jpg" alt="Trans*Code" /></a></p>
+
+<p>Trans*Code is a beginner friendly hack event focused on bringing together trans, non-binary, allies, coders, designers and visionaries and drawing attention to transgender issues and opportunities.</p>
+
+<p>The event will kick off with an install-fest and a networking social on Friday, the 27th of March, followed by the main workshop and hackday on Saturday the 28th.</p>
+
+<blockquote><p>“As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important. Participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.” - Naomi Ceder, organiser</p></blockquote>
+
+<p>If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology <a href="https://www.eventbrite.com/e/transcode-tickets-15831761224">sign up as a participant or volunteer to mentor</a>.</p>
+
+<p>To keep up-to-date with Trans*Code events, follow <a href="http://twitter.com/trans_code">@trans_code</a> on twitter and subscribe to the <a href="https://twitter.com/hashtag/trans_code?src=hash">event hashtag</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

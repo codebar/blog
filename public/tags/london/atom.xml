@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: london | codebar]]></title>
+  <link href="http://blog.codebar.io/blog/tags/london/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-07-06T10:54:53+01:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
+  <author>
+    <name><![CDATA[Codebar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing West London chapter]]></title>
+    <link href="http://blog.codebar.io/blog/2015/06/30/london-chapters/"/>
+    <updated>2015-06-30T17:46:19+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/06/30/london-chapters</id>
+    <content type="html"><![CDATA[<p>Dear codebarians,</p>
+
+<p>Thanks to your enthusiasm, codebar London has expanded rapidly in the past couple of months. I’m sure you have noticed the waiting list getting longer every week and the number of attendees per event rising steadily lately. Not only that, London is a massive city with students and coaches living scattered around it’s area, with some people having to travel up to an hour to attend certain workshops. This obviously is not an ideal situation as we want our workshops to be easily accessible by the most number of students, with a number of attendees at each workshop that is still manageable by us (the organisers) and is not a hindrance to learning (taking too long to organiser ourselves, etc&hellip;).</p>
+
+<p>To combat this situation we have started running events in <a href="http://codebar.io/south-london">South London</a>, on top of the original <a href="http://codebar.io/london">Central London</a> location and now we are adding <a href="http://codebar.io/west-london">West London</a> to the roster. The Central and South London workshops will both be held on Wednesdays, while the West London workshop will be offered on Tuesdays. The first West London <a href="http://codebar.io/workshops/150">workshop</a> will be held on the 14th of July, 2015.</p>
+
+<p>A quick note about the different London chapters: you are more than welcome to sign up to all three of them and attend whichever workshop is most convenient for you that week. But please do not double book yourself on workshops (especially in the case of the Central and South London workshops which run on the same day). We do not have time to go through names and remove you from a list. Please bare this in mind when confirming your attendance for a workshop. Please also be respectful of other students: if you can no longer attend a workshop cancel your attendance through the site so someone else can take your place. Hopefully the increased number of workshops will allow more of you to dip your toes into programming and take part in the codebar experience.</p>
+
+<p>On another note we have been nominated for the Grassroots Event of the Year award at the <a href="https://thenetawards.com/">net awards</a>. This is an amazing achievement for us as it is nominated by you. So if you have a spare 10 seconds please <a href="https://thenetawards.com/vote/grassroots/codebar/">vote for us</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mind the Code]]></title>
+    <link href="http://blog.codebar.io/blog/2015/06/17/mind-the-code/"/>
+    <updated>2015-06-17T22:17:50+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/06/17/mind-the-code</id>
+    <content type="html"><![CDATA[<p>On Saturday 4th June we organised Mind the Code, a day dedicated to mindfulness. Our aim was to run a slightly different event to anything we have ever ran before, where the day consisted of talks, workshops and yoga.</p>
+
+<p>The day began with a few lightning talks from all of our sponsors and the first main talk of the day by <a href="https://twitter.com/emilyatk">Emily Atkinson</a>, developer and product manager at <a href="http://uk.moo.com">Moo</a>. Emily’s talk focused on coding mindfully. The first half of her talk focused on viewing code as a means to solving a problem. She discussed that as a developer you do not sit down to ‘write code’, you sit down to solve a problem. The second half of her talk was trying to get the audience to think about how other people view your code, and compared this to the foundations of a house. You want a solid base so that other developers can jump into the project and build upon your code without ruining your previous work.</p>
+
+<p><a href=""><img src="/images/MTC-EmilyAtkinson.jpg" alt="Mind the code - Emily Atkinson" /></a></p>
+
+<p>The second part to the day was an exercise on domain modelling. Students and coaches were paired up randomly and asked to design a new system for managing the London Tube system. Using paper and pens, we asked them to think about the concepts behind this model, classes, and who would be responsible for these classes and the relationship between them.</p>
+
+<p><a href=""><img src="/images/MTC-Exercise1.jpg" alt="Mind the Code - Exercise 1" /></a></p>
+
+<p>Once the first half of the day was completed, the first Yoga session was taken by Sandrine. This was then followed by lunch, provided by <a href="http://pronto.co.uk">Pronto</a>.</p>
+
+<p>Next began our main coding workshop. The task here was to pick one of our set <a href="https://github.com/deniseyu/mind-the-code/tree/master/projects">projects</a> and begin building it with their coaches. The projects included a yoga slot machine, yoga lullabies, yoga pose name generator, online mode ring and a to-do list. The aim of this workshop was to get the students started on a projects of their choice.</p>
+
+<p>We then had a second yoga workshop, for those that did not do it the first time, followed by the afternoon session of lightning talks. The <a href="http://slides.com/kimberleycook/motivation#/">first lightning talk</a> was by <a href="https://twitter.com/kimberleycook91">Kimberley Cook</a>, codebar organiser and front-end/iOS developer at Pixeled Eggs, on motivation. The <a href="http://gylippus.github.io/lightening-hybrid/#/">second lightning talk</a> was by <a href="https://twitter.com/heryandotus">Ryan Hanna</a>, mobile developer at Sworkit, on building hybrid apps with HMTL/CSS and JS. And the <a href="http://slides.com/alexpeattie/love#/">final talk</a> was by <a href="https://twitter.com/alexpeattie">Alex Peattie</a>, CTO at Peg, on developing mindful code regardless of your level.</p>
+
+<p><a href=""><img src="/images/MTC-lightning-talk.jpg" alt="Mind the Code - Alex Peattie" /></a></p>
+
+<p>After the lightning talks we had the second part to the coding workshop, which was a continuation of the first workshop. We stressed that the projects did not need to be finished as the workshop was more about what it means to develop software, and to have fun building it too.</p>
+
+<p>We want to say a huge thanks to all of our sponsors <a href="http://mailjet.com">MailJet</a>, <a href="http://shutl.com/uk">Shutl</a>, <a href="https://www.twilio.com">Twilio</a> and <a href="http://beta.makersacademy.com">Makers Academy</a>. Also a huge thank you to <a href="https://twitter.com/MintSugar">Michela Tannoia</a> for designing our stickers. Without all of your support the day would not have been possible. And a final big thank you to all the students and coaches who attended and made our first Mind the Code an absolute blast.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trans*Code London]]></title>
+    <link href="http://blog.codebar.io/blog/2015/02/22/transcode-london/"/>
+    <updated>2015-02-22T15:19:28+00:00</updated>
+    <id>http://blog.codebar.io/blog/2015/02/22/transcode-london</id>
+    <content type="html"><![CDATA[<p>We are happy to announce our support for the <a href="http://trans-code.org">Trans*Code hackday</a> that will take place in London in March.</p>
+
+<p><a href="http://trans-code.org"><img src="/images/trans-code.jpg" alt="Trans*Code" /></a></p>
+
+<p>Trans*Code is a beginner friendly hack event focused on bringing together trans, non-binary, allies, coders, designers and visionaries and drawing attention to transgender issues and opportunities.</p>
+
+<p>The event will kick off with an install-fest and a networking social on Friday, the 27th of March, followed by the main workshop and hackday on Saturday the 28th.</p>
+
+<blockquote><p>“As technology offers growing opportunities, being sure these opportunities are equally accessible to traditionally marginalised groups grows ever more important. Participants can come from any background, working together to create prototypes around the themes of transgender issues and access to technology.” - Naomi Ceder, organiser</p></blockquote>
+
+<p>If you have an idea, can code or design, want to learn, or just improve the situation of the trans and non­binary communities through technology <a href="https://www.eventbrite.com/e/transcode-tickets-15831761224">sign up as a participant or volunteer to mentor</a>.</p>
+
+<p>To keep up-to-date with Trans*Code events, follow <a href="http://twitter.com/trans_code">@trans_code</a> on twitter and subscribe to the <a href="https://twitter.com/hashtag/trans_code?src=hash">event hashtag</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
