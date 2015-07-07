@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: clojurebridge | codebar]]></title>
-  <link href="http://blog.codebar.io/tags/clojurebridge/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/"/>
-  <updated>2015-06-30T23:00:19+01:00</updated>
-  <id>http://blog.codebar.io/</id>
+  <link href="http://blog.codebar.io/blog/tags/clojurebridge/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-07-08T01:19:47+03:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Clojurebridge London]]></title>
-    <link href="http://blog.codebar.io/2015/05/05/clojurebridge/"/>
-    <updated>2015-05-05T23:51:00+01:00</updated>
-    <id>http://blog.codebar.io/2015/05/05/clojurebridge</id>
+    <link href="http://blog.codebar.io/blog/2015/05/06/clojurebridge/"/>
+    <updated>2015-05-06T01:51:00+03:00</updated>
+    <id>http://blog.codebar.io/blog/2015/05/06/clojurebridge</id>
     <content type="html"><![CDATA[<p>On Saturday April 18, Kriszta, Jarkyn, and Denise took part in London&rsquo;s first-ever <a href="www.clojurebridge.org">Clojurebridge</a> workshop, hosted at uSwitch&rsquo;s sunny offices in Southwark. We learned TONS of Clojure &ndash; our brains were mush by the end of the day! &ndash; and were able to experience how a workshop can successfully cater for many different experience levels. The students participating in the workshop came from all different backgrounds. Some were full-time developers looking to pick up some functional programming as a hobby; others were newcomers to coding altogether.</p>
 
 <p>As newcomers to functional programming, we quickly realized that we would need to think about problem-solving in a completely different way if we were to become good Clojure developers. Unlike object-oriented languages such as Ruby or Javascript (most of the time..), functions are first-class citizens in Clojure &ndash; quite literally, because the function precedes each list. Because objects don&rsquo;t exist in the same way as Ruby objects, they can&rsquo;t hold state. As a result, data passed into a Clojure function is processed in a consistent, predictable way. Clojure can also developed with fast feedback cycles because it is richly supported by instant REPLs in several editors. An interesting side effect of this is that, while Test Driven Development (TDD) has many evangelists in Ruby and Java communities, TDD did not seem to have the same following in the Clojure community.</p>

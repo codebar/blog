@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: south-london | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/south-london/atom.xml" rel="self"/>
+  <title><![CDATA[Category: west-london | codebar]]></title>
+  <link href="http://blog.codebar.io/blog/tags/west-london/atom.xml" rel="self"/>
   <link href="http://blog.codebar.io/blog/"/>
   <updated>2015-07-08T01:19:47+03:00</updated>
   <id>http://blog.codebar.io/blog/</id>
@@ -25,27 +25,6 @@
 <p>A quick note about the different London chapters: you are more than welcome to sign up to all three of them and attend whichever workshop is most convenient for you that week. But please do not double book yourself on workshops (especially in the case of the Central and South London workshops which run on the same day). We do not have time to go through names and remove you from a list. Please bare this in mind when confirming your attendance for a workshop. Please also be respectful of other students: if you can no longer attend a workshop cancel your attendance through the site so someone else can take your place. Hopefully the increased number of workshops will allow more of you to dip your toes into programming and take part in the codebar experience.</p>
 
 <p>On another note we have been nominated for the Grassroots Event of the Year award at the <a href="https://thenetawards.com/">net awards</a>. This is an amazing achievement for us as it is nominated by you. So if you have a spare 10 seconds please <a href="https://thenetawards.com/vote/grassroots/codebar/">vote for us</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[South London codebar]]></title>
-    <link href="http://blog.codebar.io/blog/2015/04/19/south-london-codebar/"/>
-    <updated>2015-04-19T14:13:48+03:00</updated>
-    <id>http://blog.codebar.io/blog/2015/04/19/south-london-codebar</id>
-    <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
-
-<p>The lightning talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
-
-<p><a href=""><img src="/images/tony-sl-talk.jpg" alt="Tony To" /></a></p>
-
-<p>Then as normal students and coaches were matched up for the 2 hour workshop.</p>
-
-<p><a href=""><img src="/images/pact-coffee.jpg" alt="Pact Coffee" /></a></p>
-
-<p>We would like to thank Pact Coffee for donating their venue for this event. And another huge thank you to Hire Space for their generous donation towards this event.</p>
-
-<p>Without the generous donations of both <a href="https://www.pactcoffee.com">Pact</a> and <a href="https://hirespace.com">Hire Space</a> this event would not have happened. If you are a company in South London and would like to sponsor an event, or donate your venue for the evening, then please get in contact at <a href="mailto:south-london@codebar.io">south-london@codebar.io</a></p>
 ]]></content>
   </entry>
   

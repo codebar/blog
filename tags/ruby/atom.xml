@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ruby | codebar]]></title>
-  <link href="http://blog.codebar.io/tags/ruby/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/"/>
-  <updated>2015-06-30T23:00:19+01:00</updated>
-  <id>http://blog.codebar.io/</id>
+  <link href="http://blog.codebar.io/blog/tags/ruby/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io/blog/"/>
+  <updated>2015-07-08T01:19:47+03:00</updated>
+  <id>http://blog.codebar.io/blog/</id>
   <author>
     <name><![CDATA[Codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bath Ruby Conference 2015]]></title>
-    <link href="http://blog.codebar.io/2015/03/22/bath-ruby/"/>
-    <updated>2015-03-22T22:18:48+00:00</updated>
-    <id>http://blog.codebar.io/2015/03/22/bath-ruby</id>
+    <link href="http://blog.codebar.io/blog/2015/03/23/bath-ruby/"/>
+    <updated>2015-03-23T00:18:48+02:00</updated>
+    <id>http://blog.codebar.io/blog/2015/03/23/bath-ruby</id>
     <content type="html"><![CDATA[<p>If you happened to be in Bath last Friday, 13th of March, you would have seen a host of Ruby developers from the UK and beyond descend upon the ancient city for the first ever <a href="http://2015.bathruby.org/">Bath Ruby Conference</a> held at the Assembly Halls (chandeliers and all!). Such a fantastic event could not be missed, so went along for a full day of talks, learning and socialising.</p>
 
 <p><a href="http://2015.bathruby.org/index.html"><img src="/images/bath-ruby-logo.png" alt="Bath Ruby Conference 2015" /></a></p>
