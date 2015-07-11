@@ -5,10 +5,10 @@ date: 2015-06-26 10:23:40 +0100
 comments: true
 author: Rosa Fox
 author_email: rosafox89@gmail.com
-categories: conference responsive
+categories: conference responsive web design brighton
 ---
 
-Friday 19th June was a brilliant day, partly because of the glorious sunshine and partly because 12 Codebar Brighton students spent the day at the 3rd and final Responsive Day Out ‘The Final Breakpoint’ thanks to ticket giveaways from the lovely people at Clearleft.
+Friday 19th June was a brilliant day, partly because of the glorious sunshine and partly because 12 codebar Brighton students spent the day at the 3rd and final Responsive Day Out ‘The Final Breakpoint’ thanks to ticket giveaways from the lovely people at [Clearleft](http://clearleft.com/).
 
 **What is Responsive Day Out?**
 
@@ -18,7 +18,7 @@ Responsive Day Out is a day conference comprised of topics branching responsive 
 
 Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
 
-Building responsive websites primarily requires the use of HTML, CSS and possibly Javascript skills. This resonated well with the Codebar students that attended as they have been building on these skills at Codebar. The Codebar tutorials don’t yet progress onto building responsive sites so this really got everyone thinking about how they could extend their current skill sets to encompass these ideas. It was also a real eye opener in to just how much there is to think about when designing for cross browser and cross platform.
+Building responsive websites primarily requires the use of HTML, CSS and possibly Javascript skills. This resonated well with the codebar students that attended as they have been building on these skills at codebar. The codebar tutorials don’t yet progress onto building responsive sites so this really got everyone thinking about how they could extend their current skill sets to encompass these ideas. It was also a real eye opener in to just how much there is to think about when designing for cross browser and cross platform.
 
 **The Day!**
 
@@ -26,11 +26,11 @@ The conference was held at the Brighton Dome Corn Exchange, anyone who has been 
 
 There were 12 talks, all of which were engaging and of high quality. Talks were grouped in 3s (around 20 minutes each) followed by a quick chat between conference host Jeremy Keith and those speakers before breaks for sun and coffee.
 
-![Codebar group photo](/images/codebar_rdo.jpg)
+![codebar group photo](/images/codebar_rdo.jpg)
 
 **The Speakers**
 
-As Codebar is an event aimed at encouraging diversity in tech we were pleased that there were so many inspiring female speakers on the bill. To us it signifies women holding strong presence in this industry. It is encouraging for other women either starting out or further into careers, when it is actively projected that women should be present, seen, heard and their knowledge shared.
+As codebar is an event aimed at encouraging diversity in tech we were pleased that there were so many inspiring female speakers on the bill. To us it signifies women holding strong presence in this industry. It is encouraging for other women either starting out or further into careers, when it is actively projected that women should be present, seen, heard and their knowledge shared.
 
 The audio recordings are already available on the [Responsive Day Out 3 Page](http://responsiveconf.com/2015/) but here is a quick overview of a few of the talks:
 
@@ -40,7 +40,7 @@ Alice is a front end developer at GDS and her talk title was ‘What is the busi
 
 **Rachel Shillcock -**
 
-Rachel is self employed, often designing for entrepreneurs with a focus on female entrepreneurs. She spoke about accessibility and how it isn’t something that can be tagged on at the end - no body should be left behind. She shared useful tools for making a site more accessible which will be especially useful for Codebar students looking to make improvements in that area. These tools included [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) an online colour contrast checker that gives an A, AA or AAA accessibility rating for a colour against a background colour. Another was [tota11y](http://khan.github.io/tota11y/) which lets you add a checklist to your page which will rate and advise your pages’ accessibility. Plenty of advice can also be found on [a11yproject](http://a11yproject.com/). She concluded that ultimately testing on real life people will help you achieve the best results.
+Rachel is self employed, often designing for entrepreneurs with a focus on female entrepreneurs. She spoke about accessibility and how it isn’t something that can be tagged on at the end - no body should be left behind. She shared useful tools for making a site more accessible which will be especially useful for codebar students looking to make improvements in that area. These tools included [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) an online colour contrast checker that gives an A, AA or AAA accessibility rating for a colour against a background colour. Another was [tota11y](http://khan.github.io/tota11y/) which lets you add a checklist to your page which will rate and advise your pages’ accessibility. Plenty of advice can also be found on [a11yproject](http://a11yproject.com/). She concluded that ultimately testing on real life people will help you achieve the best results.
 
 **Alla Kholmatova -**
 
@@ -52,7 +52,7 @@ Jake spoke about Modern Progressive Enhancement. Jake began by talking about per
 
 **Ruth John -**
 
-Ruth’s talk was brilliant as she had prepared lots of demonstrations for using different web APIs. These included the geolocations API, web animation API, web audio API, ambient light API and more. There is a Web Audio API book by Boris Smus available to read for free online which comes recommended. Hopefully this triggered a few project ideas for Codebar students!
+Ruth’s talk was brilliant as she had prepared lots of demonstrations for using different web APIs. These included the geolocations API, web animation API, web audio API, ambient light API and more. There is a Web Audio API book by Boris Smus available to read for free online which comes recommended. Hopefully this triggered a few project ideas for codebar students!
 
 **Rosie Campbell -**
 
@@ -66,7 +66,7 @@ Lyza was great to watch, very engaging and brilliant at telling the her story. S
 
 Before the web, if you heard lyrics on the radio you couldn’t just google the song. You had to look up academic information in reference libraries, but now with the web we are the reference library. More and more new frameworks are released and it can lead to demotivation and feelings of incomplete mastery making it much harder to be a generalist.
 
-Lyza mentioned that she loved the word ‘developer’ which is something that resonated with some of the Codebar students, it is great to be able to develop and carry out ideas. She spoke about how it takes bravery to feel like a beginner again and again as changes happen in the web. It is comforting to know that everyone feels out of their depth at times when learning.
+Lyza mentioned that she loved the word ‘developer’ which is something that resonated with some of the codebar students, it is great to be able to develop and carry out ideas. She spoke about how it takes bravery to feel like a beginner again and again as changes happen in the web. It is comforting to know that everyone feels out of their depth at times when learning.
 
 **Conclusion**
 
