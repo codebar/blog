@@ -11,10 +11,22 @@ categories: bournemouth
 ---
 
 
-Firstly, codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops. Our goal is to enable underrepresented groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+codebar is a non-profit initiative that facilitates the growth of a diverse tech community. We run regular programming workshops for women, LGBTQ and people from underrepresented minority groups. Our goal is to enable our students to learn programming in a safe and collaborative environment and expand their career opportunities. 
 
-Bournemouth has such a great tech scene and it's growing at such a fast pace. It has an estimated 450 creative agencies in the area and is home to the world's largest Open Device Lab. As well being host to over 100 events a year; including meet-ups, hack days, unconferences and full blown conferences. Oh did I also mention the beach:
+codebar sessions run for 2 hours, in which students can choose to follow either our set [tutorials](http://tutorials.codebar.io/) or a personal project they are working on. We take pride in offering a 2-1 student to coach ratio so students get the attention they deserve.
 
-Now our request. codebar's mission is to teach pogramming but for this to happen we need your help. Yes you reading this. Help spreading the codebar mission, help getting coaches on board and help getting poeple involved who want to learn to code. 
+Predominantly our sessions run across the UK but more recently we have expanded to Brazil, America and now... Bournemouth!  
 
-We are also looking for sponsors, if you have  
+Bournemouth has a vibrant tech scene which is growing rapidly - It has an estimated 450 creative agencies in the area and is home to the world's largest Open Device Lab. It is also host to over 100 events a year; including meet-ups, hack days, unconferences and full blown conferences. Oh, and did I mention that the beach was voted the best beach in the UK and fourth best in Europe:
+
+[![Bournemouth beach](/images/bournemouth_beach.jpg)]()
+
+Now our request to you. codebar's mission is to teach programming but for this to happen we need your help. Yes you reading this blog post. We need your help spreading the codebar mission, help getting coaches on board and help getting poeple involved who want to learn to code. We also need sponsors, as without them codebar would not be possible. They provide us with space, food, drink and of course internet. So, if you work somewhere that could host a codebar then please contact us, [hello@codebar.io](mailto:hello@codebar.io) or [@codebarBmth](https://twitter.com/codebarBmth).
+
+**Conclusion**
+
+If you want to attend a workshop as a coach or a student you must [sign up via the website](http://codebar.io/member/new), equally if you know someone who is interested in coding and fits our eligibilty criteria get them to sign up too. Or if you want to help us by becoming a host for this chpater then please email us at [hello@codebar.io](mailto:hello@codebar.io).
+
+P.S Thank you [Matt Northam](https://twitter.com/mattnortham) for the incredible picture of the beach.
+
+
