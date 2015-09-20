@@ -13,7 +13,7 @@ categories: bournemouth
 
 codebar is a non-profit initiative that facilitates the growth of a diverse tech community. We run regular programming workshops for women, LGBTQ and people from underrepresented minority groups. Our goal is to enable our students to learn programming in a safe and collaborative environment and expand their career opportunities. 
 
-codebar sessions run for 2 hours, in which students can choose to follow either our set [tutorials](http://tutorials.codebar.io/) or a personal project they are working on. We take pride in offering a 2-1 student to coach ratio so students get the attention they deserve.
+codebar sessions run for 2 hours, in which students can choose to follow either our set [tutorials](http://tutorials.codebar.io/) or focus on a personal project. We take pride in offering a 2-1 student to coach ratio so students get the attention they deserve.
 
 Predominantly our sessions run across the UK but more recently we have expanded to Brazil, America and now... Bournemouth!  
 
