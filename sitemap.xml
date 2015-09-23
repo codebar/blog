@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.codebar.io/blog/2015/09/08/bournemouth-codebar/</loc>
+    <lastmod>2015-09-08T23:05:25+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://blog.codebar.io/blog/2015/07/06/london-chapters/</loc>
     <lastmod>2015-07-06T19:46:19+03:00</lastmod>
   </url>
@@ -91,5 +95,8 @@
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/tags/west-london/</loc>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/blog/tags/bournemouth/</loc>
   </url>
 </urlset>
