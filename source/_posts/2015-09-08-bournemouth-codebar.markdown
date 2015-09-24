@@ -25,7 +25,7 @@ Now our request to you. codebar's mission is to teach programming but for this t
 
 **Get involved**
 
-Our first worship will be held on Tuesday 13th October at [Folk](http://www.wearefolk.com/) from 6:30pm. If you want to attend this workshop as a coach or a student you must [sign up via the website](http://codebar.io/member/new), equally if you know someone who is interested in coding and fits our eligibilty criteria get them to sign up too. Or if you want to help us by becoming a host for this chapter then please email us at [hello@codebar.io](mailto:hello@codebar.io).
+Our first workshop will be held on Tuesday 13th October at [Folk](http://www.wearefolk.com/) from 6:30pm. If you want to attend this workshop as a coach or a student you must [sign up via the website](http://codebar.io/member/new), equally if you know someone who is interested in coding and fits our eligibilty criteria get them to sign up too. Or if you want to help us by becoming a host for this chapter then please email us at [hello@codebar.io](mailto:hello@codebar.io).
 
 P.S Thank you [Matt Northam](https://twitter.com/mattnortham) for the incredible picture of the beach.
 
