@@ -24,7 +24,7 @@ We were floored by the eagerness of the participants to contribute to the event 
 
 [![food at uncodebar](/images/uncodebar-food.png)]()
 
-We were exceedingly happy that the attendees had the same impression of the event as we did. We received nothing but positive feedback, this one paragraph from [@ThisIsJoFrank](https://twitter.com/ThisIsJoFrank) really explains why we think the event was a succes:
+We were exceedingly happy that the attendees had the same impression of the day as we did. We received nothing but positive feedback, this one paragraph from [@ThisIsJoFrank](https://twitter.com/ThisIsJoFrank) really explains why we think the event was a succes:
 
 >Every talk that I went to was interesting, engaging and well presented. The coaches are a talented lot, the wealth of information shared was proof of that, but it wasn’t just shared knowledge, it was the encouragement and enthusiasm that everyone brought to the day and the feeling of positivity and mutual respect that really made Uncodebar stand out from other conferences that I’ve attended.
 
