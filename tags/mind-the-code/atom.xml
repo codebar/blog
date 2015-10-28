@@ -4,10 +4,10 @@
   <title><![CDATA[Category: mind-the-code | codebar]]></title>
   <link href="http://blog.codebar.io/blog/tags/mind-the-code/atom.xml" rel="self"/>
   <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-09-29T22:50:33+03:00</updated>
+  <updated>2015-10-28T19:37:29+00:00</updated>
   <id>http://blog.codebar.io/blog/</id>
   <author>
-    <name><![CDATA[Codebar]]></name>
+    <name><![CDATA[codebar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mind the Code]]></title>
-    <link href="http://blog.codebar.io/blog/2015/06/18/mind-the-code/"/>
-    <updated>2015-06-18T00:17:50+03:00</updated>
-    <id>http://blog.codebar.io/blog/2015/06/18/mind-the-code</id>
+    <link href="http://blog.codebar.io/blog/2015/06/17/mind-the-code/"/>
+    <updated>2015-06-17T22:17:50+01:00</updated>
+    <id>http://blog.codebar.io/blog/2015/06/17/mind-the-code</id>
     <content type="html"><![CDATA[<p>On Saturday 4th June we organised Mind the Code, a day dedicated to mindfulness. Our aim was to run a slightly different event to anything we have ever ran before, where the day consisted of talks, workshops and yoga.</p>
 
 <p>The day began with a few lightning talks from all of our sponsors and the first main talk of the day by <a href="https://twitter.com/emilyatk">Emily Atkinson</a>, developer and product manager at <a href="http://uk.moo.com">Moo</a>. Emily’s talk focused on coding mindfully. The first half of her talk focused on viewing code as a means to solving a problem. She discussed that as a developer you do not sit down to ‘write code’, you sit down to solve a problem. The second half of her talk was trying to get the audience to think about how other people view your code, and compared this to the foundations of a house. You want a solid base so that other developers can jump into the project and build upon your code without ruining your previous work.</p>

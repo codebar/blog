@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.codebar.io/blog/2015/10/18/uncodebar/</loc>
+    <lastmod>2015-10-18T19:44:35+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://blog.codebar.io/blog/2015/09/08/bournemouth-codebar/</loc>
-    <lastmod>2015-09-08T23:05:25+03:00</lastmod>
+    <lastmod>2015-09-08T21:05:25+01:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/2015/07/06/london-chapters/</loc>
-    <lastmod>2015-07-06T19:46:19+03:00</lastmod>
+    <lastmod>2015-07-06T17:46:19+01:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/2015/06/26/responsive-day-out-3/</loc>
-    <lastmod>2015-06-26T12:23:40+03:00</lastmod>
+    <lastmod>2015-06-26T10:23:40+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/06/18/mind-the-code/</loc>
-    <lastmod>2015-06-18T00:17:50+03:00</lastmod>
+    <loc>http://blog.codebar.io/blog/2015/06/17/mind-the-code/</loc>
+    <lastmod>2015-06-17T22:17:50+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/05/06/clojurebridge/</loc>
-    <lastmod>2015-05-06T01:51:00+03:00</lastmod>
+    <loc>http://blog.codebar.io/blog/2015/05/05/clojurebridge/</loc>
+    <lastmod>2015-05-05T23:51:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/2015/04/19/south-london-codebar/</loc>
-    <lastmod>2015-04-19T14:13:48+03:00</lastmod>
+    <lastmod>2015-04-19T12:13:48+01:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/</loc>
-    <lastmod>2015-03-26T22:06:04+02:00</lastmod>
+    <lastmod>2015-03-26T20:06:04+00:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.codebar.io/blog/2015/03/23/bath-ruby/</loc>
-    <lastmod>2015-03-23T00:18:48+02:00</lastmod>
+    <loc>http://blog.codebar.io/blog/2015/03/22/bath-ruby/</loc>
+    <lastmod>2015-03-22T22:18:48+00:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/2015/02/22/transcode-london/</loc>
-    <lastmod>2015-02-22T17:19:28+02:00</lastmod>
+    <lastmod>2015-02-22T15:19:28+00:00</lastmod>
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/archives/</loc>
@@ -98,5 +102,11 @@
   </url>
   <url>
     <loc>http://blog.codebar.io/blog/tags/bournemouth/</loc>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/blog/tags/unconference/</loc>
+  </url>
+  <url>
+    <loc>http://blog.codebar.io/blog/tags/coaches/</loc>
   </url>
 </urlset>
