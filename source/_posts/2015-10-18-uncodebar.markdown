@@ -12,7 +12,7 @@ Here at codebar we run over a hundred workshops a year for people underrepresent
 
 With this in mind we devised uncodebar, the codebar unconference. We wanted to run an event that focused on our coaches, a platform for them to come together and share knowledge with each other. We wanted this event to be an informal, casual space that encouraged collaboration between coaches and strengthened the already vibrant community we built in the two years of codebar's existence. 
 
-So on the 10th of October 2015 we all gathered in the [GoCardless](https://gocardless.com/) offices in London for a day of talks and workshops, all given by our coaches. For those not familiar with the format, an [unconference](https://en.wikipedia.org/wiki/Unconference) is a participant driven event, a loosely structured conference emphasizing the informal exchange of information and ideas between participants. At an unconference, the schedule is open ended and is put together on the day of by the participants, who fill in the spots with talks or workshops they have prepared for the event.
+So on the 10th of October 2015 we all gathered in the [GoCardless](https://gocardless.com/) offices in London for a day of talks and workshops, all given by our coaches. For those not familiar with the format, an [unconference](https://en.wikipedia.org/wiki/Unconference) is a participant driven event, a loosely structured conference emphasizing the informal exchange of information and ideas between participants. At an unconference, the schedule is open ended and is put together on the day by the participants, who fill in the spots with talks or workshops they have prepared for the event.
 
 [![putting together the schedule for uncodebar](/images/uncodebar-schedule.png)]()
 
