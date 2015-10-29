@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: bournemouth | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/bournemouth/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-10-28T19:37:29+00:00</updated>
-  <id>http://blog.codebar.io/blog/</id>
+  <link href="http://blog.codebar.io//tags/bournemouth/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io//"/>
+  <updated>2015-10-29T20:42:18+00:00</updated>
+  <id>http://blog.codebar.io//</id>
   <author>
     <name><![CDATA[codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bournemouth codebar]]></title>
-    <link href="http://blog.codebar.io/blog/2015/09/08/bournemouth-codebar/"/>
+    <link href="http://blog.codebar.io//2015/09/08/bournemouth-codebar/"/>
     <updated>2015-09-08T21:05:25+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/09/08/bournemouth-codebar</id>
+    <id>http://blog.codebar.io//2015/09/08/bournemouth-codebar</id>
     <content type="html"><![CDATA[<p>codebar is a non-profit initiative that facilitates the growth of a diverse tech community. We run regular programming workshops for women, LGBTQ and people from underrepresented minority groups. Our goal is to enable our students to learn programming in a safe and collaborative environment and expand their career opportunities.</p>
 
 <p>codebar sessions run for 2 hours, in which students can choose to follow either our set <a href="http://tutorials.codebar.io/">tutorials</a> or focus on a personal project. We take pride in offering a 2:1 student to coach ratio so students get the attention they deserve.</p>

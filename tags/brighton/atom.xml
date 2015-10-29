@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: brighton | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/brighton/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-10-28T19:37:29+00:00</updated>
-  <id>http://blog.codebar.io/blog/</id>
+  <link href="http://blog.codebar.io//tags/brighton/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io//"/>
+  <updated>2015-10-29T20:42:18+00:00</updated>
+  <id>http://blog.codebar.io//</id>
   <author>
     <name><![CDATA[codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Responsive Day Out 3]]></title>
-    <link href="http://blog.codebar.io/blog/2015/06/26/responsive-day-out-3/"/>
+    <link href="http://blog.codebar.io//2015/06/26/responsive-day-out-3/"/>
     <updated>2015-06-26T10:23:40+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/06/26/responsive-day-out-3</id>
+    <id>http://blog.codebar.io//2015/06/26/responsive-day-out-3</id>
     <content type="html"><![CDATA[<p>Friday 19th June was a brilliant day, partly because of the glorious sunshine and partly because 12 codebar Brighton students spent the day at the 3rd and final Responsive Day Out ‘The Final Breakpoint’ thanks to ticket giveaways from the lovely people at <a href="http://clearleft.com/">Clearleft</a>.</p>
 
 <p><strong>What is Responsive Day Out?</strong></p>

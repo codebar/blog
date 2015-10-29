@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: codebar | codebar]]></title>
-  <link href="http://blog.codebar.io/blog/tags/codebar/atom.xml" rel="self"/>
-  <link href="http://blog.codebar.io/blog/"/>
-  <updated>2015-10-28T19:37:29+00:00</updated>
-  <id>http://blog.codebar.io/blog/</id>
+  <link href="http://blog.codebar.io//tags/codebar/atom.xml" rel="self"/>
+  <link href="http://blog.codebar.io//"/>
+  <updated>2015-10-29T20:42:18+00:00</updated>
+  <id>http://blog.codebar.io//</id>
   <author>
     <name><![CDATA[codebar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[uncodebar, a codebar unconference]]></title>
-    <link href="http://blog.codebar.io/blog/2015/10/18/uncodebar/"/>
+    <link href="http://blog.codebar.io//2015/10/18/uncodebar/"/>
     <updated>2015-10-18T19:44:35+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/10/18/uncodebar</id>
+    <id>http://blog.codebar.io//2015/10/18/uncodebar</id>
     <content type="html"><![CDATA[<p>Here at codebar we run over a hundred workshops a year for people underrepresented in the tech industry - 52 in our Central London chapter alone. All this is possible thanks to our dedicated coaches who volunteer their free time to come and teach our students week after week. While codebar is all about the students, we wanted to acknowledge the hard work our coaches put into codebar to make it as successful as it is.</p>
 
 <p>With this in mind we devised uncodebar, the codebar unconference. We wanted to run an event that focused on our coaches, a platform for them to come together and share knowledge with each other. We wanted this event to be an informal, casual space that encouraged collaboration between coaches and strengthened the already vibrant community we built in the two years of codebar&rsquo;s existence.</p>
@@ -26,7 +26,7 @@
 
 <p><a href=""><img src="/images/uncodebar-schedule.png" alt="putting together the schedule for uncodebar" /></a></p>
 
-<p>We were floored by the eagerness of the participants to contribute to the event and by the kind way everyone treated each other. We had an amazing array of talks, with topics ranging from <a href="http://richardwestenra.com/d3-talk/#/">Data Visualization with D3.js</a>, Intro to Docker, <a href="https://speakerdeck.com/arkham/regexr4strn-3">Regular Expressions for the Strong of Heart</a>, <a href="https://docs.google.com/presentation/d/1V5pJqTC68-dGH26xlkBVdz7uSX5atQXQ5TAnPHDr6Eo/edit#slide=id.p">BEM and SMACCS</a>, <a href="https://adz.co.de/talks/#the_brain_the_gut_and_your_job.html">Behavioral Economics for Developers</a> to Introduction to Property Based Testing in Haskell. We participated in a Failure Swapshop and had a fun <a href="https://github.com/shecodesbtn/lets-get-physical">Arduino session</a> making LED&rsquo;s blink. We had plenty of breaks where participants could break out into smaller groups and get to know each other better. We had amazing food and plenty of beers to keep the conversation flowing. We finished the day with a quick round of lightning talks that included a groundbreaking talk on <a href="http://slides.com/deniseyu/taylor-swift">Taylor Swift Driven Development</a> by our very own <a href="https://twitter.com/deniseyu21">Denise</a>.</p>
+<p>We were floored by the eagerness of the attendees to contribute to the event and by the kind way everyone treated each other. We had an amazing array of talks, with topics ranging from <a href="http://richardwestenra.com/d3-talk/#/">Data Visualization with D3.js</a>, Intro to Docker, <a href="https://speakerdeck.com/arkham/regexr4strn-3">Regular Expressions for the Strong of Heart</a>, <a href="https://docs.google.com/presentation/d/1V5pJqTC68-dGH26xlkBVdz7uSX5atQXQ5TAnPHDr6Eo/edit#slide=id.p">BEM and SMACCS</a>, <a href="https://adz.co.de/talks/#the_brain_the_gut_and_your_job.html">Behavioral Economics for Developers</a> to Introduction to Property Based Testing in Haskell. We participated in a Failure Swapshop and had a fun <a href="https://github.com/shecodesbtn/lets-get-physical">Arduino session</a> making LED&rsquo;s blink. We had plenty of breaks where attendees could break out into smaller groups and get to know each other better. We had amazing food and plenty of beers to keep the conversation flowing. We finished the day with a quick round of lightning talks that included a groundbreaking talk on <a href="http://slides.com/deniseyu/taylor-swift">Taylor Swift Driven Development</a> by our very own <a href="https://twitter.com/deniseyu21">Denise</a>.</p>
 
 <p><a href=""><img src="/images/uncodebar-arduino.png" alt="arduino workshop at uncodebar" /></a></p>
 
@@ -34,9 +34,11 @@
 
 <p><a href=""><img src="/images/uncodebar-food.png" alt="food at uncodebar" /></a></p>
 
-<p>We were exceedingly happy that the attendees had the same impression of the day as we did. We received nothing but positive feedback, this one paragraph from <a href="https://twitter.com/ThisIsJoFrank">@ThisIsJoFrank</a> really explains why we think the event was a succes:</p>
+<p>We were exceedingly happy that the attendees had the same impression of the day as we did. We received nothing but positive feedback, this quite from <a href="https://twitter.com/ThisIsJoFrank">@ThisIsJoFrank</a> particularly explains well why we think the event was a succes:</p>
 
-<blockquote><p>Every talk that I went to was interesting, engaging and well presented. The coaches are a talented lot, the wealth of information shared was proof of that, but it wasn’t just shared knowledge, it was the encouragement and enthusiasm that everyone brought to the day and the feeling of positivity and mutual respect that really made Uncodebar stand out from other conferences that I’ve attended.</p></blockquote>
+<blockquote><p>Every talk that I went to was interesting, engaging and well presented. The coaches are a talented lot, the wealth of information shared was proof of that, but it wasn’t just shared knowledge, it was the encouragement and enthusiasm that everyone brought to the day and the feeling of positivity and mutual respect that really made uncodebar stand out from other conferences that I’ve attended.</p></blockquote>
+
+<p>Of course none of this could&rsquo;ve happened without the support of our sponsors. Thanks to <a href="http://www.8thlight.com/">8th Light</a>, <a href="http://codurance.com/">Codurance</a>, and <a href="http://www.crowdmix.me/">Crowdmix</a> for their generous donations and <a href="https://gocardless.com/">GoCardless</a> for hosting us in their offices.</p>
 
 <p>All in all we had an amazing day filled with inspiring workshops, talks, conversation and good food. The event had a great energy and we walked away after the day feeling inspired to continue our work with codebar and thankful to be part of such an inspiring community of technologists.</p>
 
@@ -46,9 +48,9 @@
   
   <entry>
     <title type="html"><![CDATA[Announcing West London chapter]]></title>
-    <link href="http://blog.codebar.io/blog/2015/07/06/london-chapters/"/>
+    <link href="http://blog.codebar.io//2015/07/06/london-chapters/"/>
     <updated>2015-07-06T17:46:19+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/07/06/london-chapters</id>
+    <id>http://blog.codebar.io//2015/07/06/london-chapters</id>
     <content type="html"><![CDATA[<p>Thanks to your enthusiasm, codebar London has expanded rapidly in the past couple of months. I’m sure you have noticed the waiting list getting longer every week and the number of attendees per event rising steadily lately. Not only that, London is a massive city with students and coaches living scattered around it’s area, with some people having to travel up to an hour to attend certain workshops. This obviously is not an ideal situation as we want our workshops to be easily accessible by the most number of students, with a number of attendees at each workshop that is still manageable by us (the organisers) and is not a hindrance to learning (taking too long to organiser ourselves, etc&hellip;).</p>
 
 <p>To combat this situation we have started running events in <a href="http://codebar.io/south-london">South London</a>, on top of the original <a href="http://codebar.io/london">Central London</a> location and now we are adding <a href="http://codebar.io/west-london">West London</a> to the roster. The Central and South London workshops will both be held on Wednesdays, while the West London workshop will be offered on Tuesdays. The first West London <a href="http://codebar.io/workshops/150">workshop</a> will be held on the 14th of July, 2015.</p>
@@ -61,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[South London codebar]]></title>
-    <link href="http://blog.codebar.io/blog/2015/04/19/south-london-codebar/"/>
+    <link href="http://blog.codebar.io//2015/04/19/south-london-codebar/"/>
     <updated>2015-04-19T12:13:48+01:00</updated>
-    <id>http://blog.codebar.io/blog/2015/04/19/south-london-codebar</id>
+    <id>http://blog.codebar.io//2015/04/19/south-london-codebar</id>
     <content type="html"><![CDATA[<p>Last Wednesday saw 24 students and 12 coaches attend the first ever South London Codebar at <a href="https://www.pactcoffee.com">Pact Coffee HQ</a>. The structure of the event was the same as normal, a lightning talk followed by a 2 hour workshop, this time just south of the River Thames.</p>
 
 <p>The lightning talk was given by Tony To, tech lead at Pact Coffee, about&hellip; you guessed it Pact Coffee. He gave us an insight into what life is like at Pact and the journey the coffee goes through, from delivery to their HQ to distribution to customers. He also gave us a little introduction into the tech that Pact Coffee use to maintain their website and app, and how a Raspberry Pi powers their distribution printer.</p>
@@ -82,9 +84,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kickstart Your Development Career]]></title>
-    <link href="http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career/"/>
+    <link href="http://blog.codebar.io//2015/03/26/kickstart-your-development-career/"/>
     <updated>2015-03-26T20:06:04+00:00</updated>
-    <id>http://blog.codebar.io/blog/2015/03/26/kickstart-your-development-career</id>
+    <id>http://blog.codebar.io//2015/03/26/kickstart-your-development-career</id>
     <content type="html"><![CDATA[<p>On the 16th of March a small group of aspiring developers came together at the <a href="https://gocardless.com/">GoCardless</a> offices in London for an evening event on how to <a href="http://codebar.io/courses/kickstart-your-developer-career">Kickstart Your Development Career</a>. The workshop, run by <a href="https://twitter.com/alinajaf">Najaf Ali</a>, was a three hour long presentation filled with practical knowledge and helpful tips on how to get your first job in web development.</p>
 
 <p><a href=""><img src="/images/kickstart-your-dev-career.jpg" alt="Kickstart your dev career" /></a></p>

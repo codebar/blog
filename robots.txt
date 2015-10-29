@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.codebar.io/blog/sitemap.xml 
+Sitemap: http://blog.codebar.io//sitemap.xml 
