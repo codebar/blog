@@ -1,3 +1,12 @@
+---
+layout: post
+title: "From student to developer - Priya" 
+date: 2015-04-04 20:06:04 +0000
+comments: true
+author: Priya Patil 
+author_email: patil.d.priya@gmail.com 
+categories: workshop codebar development career student
+---
 When people asked me what I wanted to be when I grew up, after the age of 11 or so when my singing pop star aspirations were drastically cut short by reality, I always gave a safe answer like teacher, lawyer, journalist. I never even considered scientist or engineer as a profession despite being a total math/science nerd in my first years of elementary school.
 
 I always read about these subjects because I was always interested in them, but they just seemed like something other people did. I never really made the connection as to why, but I suppose it could have been due to the fact that the media portrayals of these professions are generally those of men. Anyway, luckily there were some people with enough foresight to see the diversity problem within the industry. The technology industry is still pretty much in its infancy and  many companies, mine proudly included, are helping to solve this diversity problem. Those that do not are eventually confronted with the problems that a lack of diversity can bring and in the past few years there has been a definite push to try and make the industry more diverse.
@@ -11,3 +20,8 @@ I got an email later from the Rails Girls London organisers that they were going
 Now this was all whilst completing an intensive law degree, and applying for training contracts in order to become a solicitor. Annoyingly I did really well at law, even though I had no real interest or passion to become a lawyer. I got a job in a hedge fund straight out of law school helping them with their regulatory issues. But doing legal work, getting paid too well for it and not enjoying it was a sure sign I should be doing something I really enjoyed, and after attending codebar for a long time I knew this was something I wanted to do.
 
 codebar is always full of people who truly enjoy what they do. Enough to even spend an evening sharing their knowledge with other people who want to learn. Not to mention this all after a long day of work. People come to workshops with good intentions and it shows. I even came to hear about the company I work for, 8th Light at codebar because a lot of the Craftsmen at 8th Light volunteered as coaches at one point or another. It is great to see it growing and see people attending and keen to learn. It is so exciting to see people who have never coded see what is possible for the first time and I am excited to have move on to coaching students for the first time!
+
+
+
+
+![codebar priya talk](/images/priya_talk.jpg)
