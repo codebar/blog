@@ -4,7 +4,7 @@
   <title><![CDATA[codebar]]></title>
   <link href="http://blog.codebar.io//atom.xml" rel="self"/>
   <link href="http://blog.codebar.io//"/>
-  <updated>2015-11-20T14:38:03+00:00</updated>
+  <updated>2015-11-20T15:00:25+00:00</updated>
   <id>http://blog.codebar.io//</id>
   <author>
     <name><![CDATA[codebar]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[What makes a good beginner open source issue?]]></title>
-    <link href="http://blog.codebar.io//2015/10/18/what-makes-a-good-beginner-issue/"/>
-    <updated>2015-10-18T19:44:35+01:00</updated>
-    <id>http://blog.codebar.io//2015/10/18/what-makes-a-good-beginner-issue</id>
+    <link href="http://blog.codebar.io//2015/11/20/what-makes-a-good-beginner-issue/"/>
+    <updated>2015-11-20T18:44:35+00:00</updated>
+    <id>http://blog.codebar.io//2015/11/20/what-makes-a-good-beginner-issue</id>
     <content type="html"><![CDATA[<p>In the days leading up to our 24 Pull Requests event, we asked the community to submit good, beginner-friendly issues they found on Github for our students to work on during the event. Our 24 Pull Requests themed event is a day of helping beginner coders get started in contributing to open source software. The most common question we got was what constitutes a good beginner open source issue? The question is valid, especially from the perspective of a seasoned developer who can make sense of very specific jargon and can understand other developers&#8217; intentions from a few brief sentences. That isn’t the case for a complete beginner. As someone who was once a beginner - some would say still is - I think I can give some tips on what kind of issues helped me get started with open source and what kind of issues might suit other beginners.</p>
 
 <p><strong>Small bugs, or very small features</strong></p>
