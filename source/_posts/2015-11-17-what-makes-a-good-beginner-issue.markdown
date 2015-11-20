@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What makes a good beginner open source issue?"
-date: 2015-10-18 20:44:35 +0200
+date: 2015-11-20 20:44:35 +0200
 comments: true
 author: Kriszta Matyi
 author_email: matyi.kriszta@gmail.com
