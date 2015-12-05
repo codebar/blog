@@ -1,6 +1,6 @@
 ### blog.codebar.io
 
-Build with [Octopress](https://github.com/imathis/octopress) and styled with Ghost's [Casper](https://github.com/jkrmr/casper) theme.
+Built with [Octopress](https://github.com/imathis/octopress) and styled with Ghost's [Casper](https://github.com/jkrmr/casper) theme.
 
 
 ### Updating the theme
