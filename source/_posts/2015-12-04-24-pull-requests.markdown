@@ -8,6 +8,7 @@ categories: london 24-Pull-Requests
 ---
 
 ##What is your name?
-
+Haoshan Duan
 
 ##Tell us your coding experience to date?
+Not a lot but fun! 
