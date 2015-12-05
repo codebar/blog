@@ -8,7 +8,7 @@ categories: london 24-Pull-Requests
 ---
 
 ##What is your name?
-Rafiki
+"Elisha"
 
 ##Tell us your coding experience to date?
-I have been learning coding for nearly a year with Codebar
+"Very little >10 hours"
