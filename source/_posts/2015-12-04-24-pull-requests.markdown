@@ -8,7 +8,7 @@ categories: london 24-Pull-Requests
 ---
 
 ##What is your name?
-Rafiki
+lome
 
 ##Tell us your coding experience to date?
-I have been learning coding for nearly a year with Codebar
+I have been learning coding for nearly 2 weeks with Codebar
