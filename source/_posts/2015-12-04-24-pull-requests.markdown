@@ -12,3 +12,15 @@ Rafiki
 
 ##Tell us your coding experience to date?
 I have been learning coding for nearly a year with Codebar
+
+##What is your name?
+lome
+
+##Tell us your coding experience to date?
+I have been learning coding for nearly 2 weeks with Codebar
+
+##What is your name?
+Haoshan Duan
+ 
+##Tell us your coding experience to date?
+Not a lot but fun! 
