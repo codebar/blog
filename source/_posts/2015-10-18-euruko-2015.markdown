@@ -17,7 +17,7 @@ What’s new and exciting about making music from code, Joseph said, is that it 
 
 Getting away from the traditionalist view of coding as something exclusive for certain types of programmers, is very exciting for him about coding today. 
 
-"We’re reaching a point where people are starting to not accept how they’re told to use code. People are starting to say, 'let me discover for myself how I want to use it."
+"We’re reaching a point where people are starting to not accept how they’re told to use code. People are starting to say: let me discover for myself how I want to use it."
 
 "And that brings wonderful new things together in new ways, like weaving and coding and design and coding. People are starting to break apart the technology and designing for themselves from scratch."
 
@@ -39,7 +39,7 @@ Dot, Foirell, Kriszta, Jen, and Sally from our codebar communities in London and
 
 The keynote speaker was none other than Yukihiro 'Matz' Matsumoto, the chief designer and mastermind behind Ruby.
 
-He kicked off the conference with a visionary look at the interesting new stuff that the Ruby Core team is planning to add to Ruby, told through the humour of a Japanese language lesson. To the attendees relief he also promised compatibility with Ruby 2.0.
+He kicked off the conference with a visionary look at the interesting new stuff that the Ruby Core team is planning to add to Ruby, told through the humour of a Japanese language lesson. To the attendees relief, he also promised compatibility with Ruby 2.0.
 
 [![Yukihiro Matsumoto](/images/matz.jpeg)]()
 
