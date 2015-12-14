@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EuRuKo 2015"
-date: 2015-10-18 22:35:50 +0200
+date: 2015-12-14 22:35:50 +0200
 comments: true
 author: Jen Persson
 categories: euruko conference 2015 ruby europe programming
