@@ -33,7 +33,7 @@ Those obscure things included [64bites.com](http://64bites.com/) founder Michał
 
 People of all ages and from countries all over the world came together under the umbrella of a common language in Ruby. 
 
-A language that allows people to think up an idea, work out how things need to be, and then make it into a working protoype or even program.
+A language that allows people to think up an idea, work out how things need to be, and then make it into a working prototype or even program.
 
 Dot, Foirell, Kriszta, Jen, and Sally from our codebar communities in London and Brighton went to the conference thanks to amazing London sponsor, [@shutl](https://shutl.com/uk/)!
 
@@ -55,7 +55,7 @@ Some combined both. Hanneli Tavante ([@hannelita](https://twitter.com/hannelita)
 
 "What’s new and exciting is also the development of the language towards new languages we have, such as Elixir, or Rust."
 
-A more fun and personal highlight was the demo by Amy Wibowo – Fold, paper, scissors – an exploration of origiami’s cut and fold problem. 
+A more fun and personal highlight was the demo by Amy Wibowo – Fold, paper, scissors – an exploration of origami’s cut and fold problem. 
 
 The fold and cut theorem states that it is possible, given a piece of paper and any polygonal shape, to find a series of folds of that paper such that the given shape can be generated with a single cut. 
 
@@ -63,7 +63,7 @@ Her talk explored a Ruby implementation of a solver that determined the correct 
 
 What were some of the other take-aways?
 
-René Föhring has created a tool called Inch, an inline documentation quality check, to get people excited about niline docs. [Shoes](http://shoesrb.com/) for cross-platform GUI, [Sonic Pi](http://sonic-pi.net/) for music composition, RbNaCl for cryptography.
+René Föhring has created a tool called Inch, an inline documentation quality check, to get people excited about inline docs. [Shoes](http://shoesrb.com/) for cross-platform GUI, [Sonic Pi](http://sonic-pi.net/) for music composition, RbNaCl for cryptography.
 
 In addition to the learnings, the Ruby community clearly also had a great time together over two days, and at the spirited Saturday night after-party.
 
