@@ -1,0 +1,92 @@
+---
+layout: post
+title: "EuRuKo 2015"
+date: 2015-10-18 22:35:50 +0200
+comments: true
+author: Jen Persson
+categories: euruko conference 2015 ruby europe programming
+---
+
+Salzburg and the Sound of Music are traditionally inseparable, but there was little traditional about the sound of music in the Salzburg Congress hall in the middle of October.
+
+[![Salzburg](/images/salzburg.jpeg)]()
+
+Joseph Wilk ([@josephwilk](https://twitter.com/josephwilk)) was one of the presenters at [EuRuKo 2015](http://www.euruko2015.org/). He gave a talk and demo turning Ruby coding skills into a live performance. 
+
+What’s new and exciting about making music from code, Joseph said, is that it doesn’t matter that he’s making code. He’s simply making music. 
+
+Getting away from the traditionalist view of coding as something exclusive for certain types of programmers, is very exciting for him about coding today. 
+
+"We’re reaching a point where people are starting to not accept how they’re told to use code. People are starting to say: let me discover for myself how I want to use it."
+
+"And that brings wonderful new things together in new ways, like weaving and coding and design and coding. People are starting to break apart the technology and designing for themselves from scratch."
+
+Some of these new things are what Dot, from [codebar Brighton](https://codebar.io/brighton), liked best about the conference. 
+
+"You come to get an in-depth understanding of what’s involved in some aspects of the code." she said. "But also to get different ideas. I’d never thought to make a game in Ruby."
+
+"It was interesting to see Ruby in the GUI since we often tend to think of Ruby as a language that is only useful for writing web backends."
+
+"When you’re writing Ruby in the day-to-day work environment there are many things you don’t think about, the conference shows you some of the fun things going on and some of the more obscure things."
+
+Those obscure things included [64bites.com](http://64bites.com/) founder Michał Taszycki ([@mehowte](https://twitter.com/mehowte)) show the audience how to program a Commodore 64 and Amy Wibowo ([@sailorhg](https://twitter.com/sailorhg)) demonstrate an exploration of origami’s cut and fold problem.
+
+People of all ages and from countries all over the world came together under the umbrella of a common language in Ruby. 
+
+A language that allows people to think up an idea, work out how things need to be, and then make it into a working prototype or even program.
+
+Dot, Foirell, Kriszta, Jen, and Sally from our codebar communities in London and Brighton went to the conference thanks to amazing London sponsor, [@shutl](https://shutl.com/uk/)!
+
+The keynote speaker was none other than Yukihiro 'Matz' Matsumoto, the chief designer and mastermind behind Ruby.
+
+He kicked off the conference with a visionary look at the interesting new stuff that the Ruby Core team is planning to add to Ruby, told through the humour of a Japanese language lesson. To the attendees relief, he also promised compatibility with Ruby 2.0.
+
+[![Yukihiro Matsumoto](/images/matz.jpeg)]()
+
+Some of the more scientific and challenging talks were less Ruby specific: Bradley Grzesiak ([@listrophy](https://twitter.com/listrophy)) spoke about simplifying challenging software problems with rocket science, while Satoshi Tagomori addressed a data analytics service and its Ruby usage.
+
+Some combined both. Hanneli Tavante ([@hannelita](https://twitter.com/hannelita)) spoke on Humanising Math and Physics on Computer Science. She said Ruby was her first language of choice because,
+
+"We see Ruby for DevOps such as automated scripts, or a simple parser, but it can fit most scenarios, and it's usage depends on what kind of performance you need and requirements."
+
+"It’s easy for me to think in Ruby, but I think in Ruby and then if I need to for example, translate into Python. The syntax I find really pleasant too."
+
+"The language itself is very easy to write and it has some very interesting features. Ruby is good for beginners, and for senior developers."
+
+"What’s new and exciting is also the development of the language towards new languages we have, such as Elixir, or Rust."
+
+A more fun and personal highlight was the demo by Amy Wibowo – Fold, paper, scissors – an exploration of origami’s cut and fold problem. 
+
+The fold and cut theorem states that it is possible, given a piece of paper and any polygonal shape, to find a series of folds of that paper such that the given shape can be generated with a single cut. 
+
+Her talk explored a Ruby implementation of a solver that determined the correct series of folds given any input polygon.
+
+What were some of the other take-aways?
+
+René Föhring has created a tool called Inch, an inline documentation quality check, to get people excited about inline docs. [Shoes](http://shoesrb.com/) for cross-platform GUI, [Sonic Pi](http://sonic-pi.net/) for music composition, RbNaCl for cryptography.
+
+In addition to the learnings, the Ruby community clearly also had a great time together over two days, and at the spirited Saturday night after-party.
+
+That spirit is one reason to join a conference but also to join a community or club all year round. 
+
+Lisa Passing, Tam Eastleigh and Sarah Regan formed the [rubycorns](http://rubycorns.club/jekyll/) in Berlin in 2013, a project group for Ruby beginners to learn and work on an app together. 
+
+[![rubycorns](/images/rubycorns.jpeg)]()
+
+"One of the challenges of learning Ruby is keeping motivated, it’s hard to know how to do that as a beginner. The community is great. People are kind and welcoming and excited to teach me."
+
+And if she was starting out, I asked Lisa. What would she start with? 
+
+"Start with a project like an app that you love to use, and build a clone of it. For us it was creating a list of support groups. Then figure out what you want to do. Figuring that out might be for fun or it might be your way of earning a living."
+
+Typically Ruby is not as popular as other languages. While there are Ruby jobs out there, there are many more PHP and Java jobs but to Kevin McPhillips, Developer Team Lead at [shopify](https://www.shopify.co.uk/), the language you use is less important than being excellent.
+
+The event's key sponsor told the audience that the market is massive and that attendees had, for example, probably used a Shopify store but not seen it behind the scenes:
+
+"Our core application is written on Ruby on Rails but we have a huge technology stack. Java, Python for the data science team, Go for some of our more concurrent tools."
+
+"The company is hiring. We’re looking for people not specialists. I can teach someone a tool, we can teach excellent people anything."
+
+Be excellent. As coders, as communicators, and as a community, that was a theme that hit all the right notes. Perhaps the best take away of all.
+
+Check out the speakers’ decks here: http://eventifier.com/event/euruko2015/slides
