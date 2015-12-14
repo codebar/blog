@@ -17,7 +17,7 @@ What’s new and exciting about making music from code, Joseph said, is that it 
 
 Getting away from the traditionalist view of coding as something exclusive for certain types of programmers, is very exciting for him about coding today. 
 
-"We’re reaching a point where people are starting to not accept how they’re told to use code. People are starting to say, 'let me discover for myself how I want to use it."
+"We’re reaching a point where people are starting to not accept how they’re told to use code. People are starting to say: let me discover for myself how I want to use it."
 
 "And that brings wonderful new things together in new ways, like weaving and coding and design and coding. People are starting to break apart the technology and designing for themselves from scratch."
 
@@ -33,13 +33,13 @@ Those obscure things included [64bites.com](http://64bites.com/) founder Michał
 
 People of all ages and from countries all over the world came together under the umbrella of a common language in Ruby. 
 
-A language that allows people to think up an idea, work out how things need to be, and then make it into a working protoype or even program.
+A language that allows people to think up an idea, work out how things need to be, and then make it into a working prototype or even program.
 
 Dot, Foirell, Kriszta, Jen, and Sally from our codebar communities in London and Brighton went to the conference thanks to amazing London sponsor, [@shutl](https://shutl.com/uk/)!
 
 The keynote speaker was none other than Yukihiro 'Matz' Matsumoto, the chief designer and mastermind behind Ruby.
 
-He kicked off the conference with a visionary look at the interesting new stuff that the Ruby Core team is planning to add to Ruby, told through the humour of a Japanese language lesson. To the attendees relief he also promised compatibility with Ruby 2.0.
+He kicked off the conference with a visionary look at the interesting new stuff that the Ruby Core team is planning to add to Ruby, told through the humour of a Japanese language lesson. To the attendees relief, he also promised compatibility with Ruby 2.0.
 
 [![Yukihiro Matsumoto](/images/matz.jpeg)]()
 
@@ -55,7 +55,7 @@ Some combined both. Hanneli Tavante ([@hannelita](https://twitter.com/hannelita)
 
 "What’s new and exciting is also the development of the language towards new languages we have, such as Elixir, or Rust."
 
-A more fun and personal highlight was the demo by Amy Wibowo – Fold, paper, scissors – an exploration of origiami’s cut and fold problem. 
+A more fun and personal highlight was the demo by Amy Wibowo – Fold, paper, scissors – an exploration of origami’s cut and fold problem. 
 
 The fold and cut theorem states that it is possible, given a piece of paper and any polygonal shape, to find a series of folds of that paper such that the given shape can be generated with a single cut. 
 
@@ -63,7 +63,7 @@ Her talk explored a Ruby implementation of a solver that determined the correct 
 
 What were some of the other take-aways?
 
-René Föhring has created a tool called Inch, an inline documentation quality check, to get people excited about niline docs. [Shoes](http://shoesrb.com/) for cross-platform GUI, [Sonic Pi](http://sonic-pi.net/) for music composition, RbNaCl for cryptography.
+René Föhring has created a tool called Inch, an inline documentation quality check, to get people excited about inline docs. [Shoes](http://shoesrb.com/) for cross-platform GUI, [Sonic Pi](http://sonic-pi.net/) for music composition, RbNaCl for cryptography.
 
 In addition to the learnings, the Ruby community clearly also had a great time together over two days, and at the spirited Saturday night after-party.
 
