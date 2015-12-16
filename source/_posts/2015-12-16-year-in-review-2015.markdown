@@ -1,0 +1,68 @@
+---
+layout: post
+title: "2015 Year in Review"
+date: 2015-12-16 19:52:32 +0000
+comments: true
+categories: 
+---
+
+We have reached the end of another year. 2015 has been a terrific year for us here at codebar. We have opened several new chapters, run many great evetst, grew our community by more than 119% and ran over a 100 workshops across our 8 active chapters. We had an amazing time meeting all of you and building this community we are all so fond of. Thank you for an amazing year and here's to a great 2016.
+
+Year in number:
+
+We have opened 5 new chapters in 2015:
+Birmingham
+Bournemouth
+Manchester
+South London
+West London
+
+We have run some amazing events, both in london and Brighton:
+Kickstart Your Developer Career
+Mind the Code
+uncodebar
+24 Pull Requests 2015
+
+And we have taken part in some amazing initiatives:
+Trans*Code
+Brighton Digital Festival
+
+
+We've run a whopping 137 workshops across all our chapters. Of those 137, 50 took place in our Central London and 50 in our Brighton chapter. Here's the number of workshops broken down by chapters:
+
+Birmingham: 7
+Bournemouth: 5
+Brighton: 50
+Cambridge: 12
+London: 50
+Manchester: 2
+South London: 5
+West London: 5
+
+Since starting codebar in October 2013 we have run 223 workshops!
+
+Number of subscribers per chapter:
+Brighton: 481
+London: 1537
+South London: 292
+Birmingham: 61
+Cambridge: 157
+Manchester: 58
+West London: 209
+Bournemouth: 45
+Belfast: 34
+
+
+People who RSVPd to workshops this year by chapter:
+Birmingham: 46
+Bournemouth: 69
+Brighton: 1512
+Cambridge: 144
+London: 2825
+Manchester: 16
+S London: 138
+W London: 184
+
+Total: 4934
+
+In total, over 3 years, 7914 people have RSVPd across all codebars
