@@ -80,7 +80,7 @@ Lastly, thank you to [Front-end London](http://www.frontendlondon.co.uk/) and Ma
 
 2015 was also the year we got some recognition for our work. We have been nominated for a [net award](https://thenetawards.com/), where we made it onto the shortlist in the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category. Our founder, Despo Pentara, has also been recognised by the UK Prime Minister where she received a [Points of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award for her work with codebar.
 
-All of this would've been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
+All of this would not have been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
 [shutl](https://shutl.com/uk/)
 [Made by Many](madebymany.com)
 [Twilio](twilio.com)
