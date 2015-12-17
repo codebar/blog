@@ -22,10 +22,12 @@ Kickstart Your Developer Career
 Mind the Code
 uncodebar
 24 Pull Requests 2015
+Code and Chips -  Building an RFID and QR code scavenger hunt
 
 And we have taken part in some amazing initiatives:
 Trans*Code
 Brighton Digital Festival
+Spring Forward Festival
 
 
 We've run a whopping 137 workshops across all of our chapters. Of those 137, 50 took place in our Central London and 50 in our Brighton chapter. Here's the number of workshops broken down by chapters:
