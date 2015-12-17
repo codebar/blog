@@ -22,7 +22,7 @@ Kickstart Your Developer Career
 Mind the Code
 uncodebar
 24 Pull Requests 2015
-Code and Chips -  Building an RFID and QR code scavenger hunt
+Code and Chips - Building an RFID and QR code scavenger hunt
 
 And we have taken part in some amazing initiatives:
 Trans*Code
