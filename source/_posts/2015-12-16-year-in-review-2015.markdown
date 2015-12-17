@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-We have reached the end of another year. 2015 has been a terrific year for us here at codebar. We have opened several new chapters, run many great evetst, grew our community by more than 119% and ran over a 100 workshops across our 8 active chapters. We had an amazing time meeting all of you and building this community we are all so fond of. Thank you for an amazing year and here's to a great 2016.
+We have reached the end of another year. 2015 has been a terrific year for us here at codebar. We have opened several new chapters, run many great events, grew our community by more than 119% and ran over a 100 workshops across our 8 active chapters. We've had an amazing time meeting all of you and building this community that we are all so fond of. Thank you for an amazing year and here's to a great 2016.
 
 Year in number:
 
@@ -28,7 +28,7 @@ Trans*Code
 Brighton Digital Festival
 
 
-We've run a whopping 137 workshops across all our chapters. Of those 137, 50 took place in our Central London and 50 in our Brighton chapter. Here's the number of workshops broken down by chapters:
+We've run a whopping 137 workshops across all of our chapters. Of those 137, 50 took place in our Central London and 50 in our Brighton chapter. Here's the number of workshops broken down by chapters:
 
 Birmingham: 7
 Bournemouth: 5
@@ -53,7 +53,7 @@ Bournemouth: 45
 Belfast: 34
 
 
-People who RSVPd to workshops this year by chapter:
+People who RSVP'd to workshops this year by chapter:
 Birmingham: 46
 Bournemouth: 69
 Brighton: 1512
@@ -65,4 +65,4 @@ W London: 184
 
 Total: 4934
 
-In total, over 3 years, 7914 people have RSVPd across all codebars
+In total, over 3 years, 7914 people have RSVP'd across all codebars
