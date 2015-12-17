@@ -18,9 +18,9 @@ South London
 West London
 
 We have run some amazing events, both in london and Brighton:
-Kickstart Your Developer Career
-Mind the Code
-uncodebar
+[Kickstart Your Developer Career](http://blog.codebar.io/2015/03/26/kickstart-your-development-career/)
+[Mind the Code](http://blog.codebar.io/2015/06/17/mind-the-code/)
+[uncodebar](http://blog.codebar.io/2015/10/18/uncodebar/)
 24 Pull Requests 2015
 Code and Chips - Building an RFID and QR code scavenger hunt
 
