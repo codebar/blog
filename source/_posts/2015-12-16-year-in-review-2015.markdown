@@ -28,10 +28,10 @@ Manchester: 2
 South London: 5
 West London: 5
 
-223 number of workshops run since starting codebar in October 2013
+223 the number of workshops run since starting codebar in October 2013
 
-1612 the number of people who joined codebar this year, a more than 100% increase from the 1351 in 2014
-2963 total number of members across all our chapters
+2963 the total number of members across all of our chapters. 1612 the number of people who have joined codebar this year alone, which is an incredible 100% increase from the 1351 we had in 2014.
+
 
 Number of subscribers per chapter:
 Brighton: 481
@@ -44,7 +44,7 @@ West London: 209
 Bournemouth: 45
 Belfast: 34
 
-4934 number of people who have RSVP'd to a workshop this year
+4934 the number of people who have RSVP'd to a workshop this year
  
 People who RSVP'd to workshops this year by chapter:
 Birmingham: 46
@@ -70,22 +70,25 @@ And we have taken part in some amazing initiatives:
 [Brighton Digital Festival](http://brightondigitalfestival.co.uk/)
 [Spring Forward Festival](http://wespringforward.com/)
 
-codebar students and organisers have also had the opportunity to attend some great events and conferences this year, not in small part becasue of the support of our sponsors:
+codebar students and organisers have also had the opportunity to attend some great events and conferences this year, not in small part because of the support of our sponsors:
 
 Two organisers and two students had the opportunity to represent codebar at [Bath Ruby 2015](http://2016.bathruby.uk/) thanks to a generous donation from [shutl](https://shutl.com/uk/).
 We have sent one organiser and two students to [eurucamp 2015](http://2015.eurucamp.org/), made possible by [Tom Stuart](https://twitter.com/tomstuart) and [George Sheppard](https://twitter.com/fuzzmonkey).
 We have sent four students to [EuRuKo 2015](http://www.euruko2015.org/) thanks to a donation by [shutl](https://shutl.com/uk/).
-We had the opportunity to give a lightning talk at [re:develop 2015](http://redevelop.io/) and they have also greatly supported us in setting up our Bournemouth chapter.
-Lastly, thank you to [Front-end London](http://www.frontendlondon.co.uk/) and Made by Many for supporting us all year round with complimentary tickets for codebar students.
+We had the opportunity to give a lightning talk at [re:develop 2015](http://redevelop.io/), who have also been greatly supportive in helping us set up our Bournemouth chapter.
+Lastly, thank you to [Front-end London](http://www.frontendlondon.co.uk/) and Made by Many for supporting us all year round with complimentary tickets for codebar students to their monthly event.
 
-2015 was also the year we got some recognition for our work. We have been nominated for a [net award](https://thenetawards.com/) and made it onto the shortlist in the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category. Our founder, Despo Pentara has also been recognised by the UK Prime Minister and received a [Points of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award for her work with codebar.
+2015 was also the year we got some recognition for our work. We have been nominated for a [net award](https://thenetawards.com/), where we made it onto the shortlist in the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category. Our founder, Despo Pentara, has also been recognised by the UK Prime Minister where she received a [Points of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award for her work with codebar.
 
-None of this would've been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
+All of this would've been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
 [shutl](https://shutl.com/uk/)
-Made by Many
+[Made by Many](madebymany.com)
+[Twilio](twilio.com)
+[Mailjet](https://uk.mailjet.com/)
+[8th Light](https://8thlight.com/)
 Robin's company
 Twitter
-Every mentor who have donated their time to coach with us this year. 
-Everyone one of our students whose enthusisasm keeps us going.
+Everyone of our mentors who have donated their time to coaching this year. 
+Everyone of our students whose enthusiasm keeps us going.
 
 Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better 2016.
