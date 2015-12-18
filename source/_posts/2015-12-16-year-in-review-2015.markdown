@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened several new chapters, run many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
+2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened [a](http://codebar.io/birmingham) [number](http://www.codebar.io/bournemouth/) [of](http://codebar.io/manchester) [new](http://codebar.io/south-london) [chapters](http://codebar.io/west-london), run [many](http://blog.codebar.io/2015/06/17/mind-the-code/) [great](http://blog.codebar.io/2015/10/18/uncodebar/) [events](http://codebar.io/events/24-pull-requests-2015)), grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
 
 5 the number of new chapters opened in 2015:
 Birmingham
@@ -59,6 +59,7 @@ West London: 184
 In total, over 3 years, 7914 people have RSVP'd across all codebar chapters
 
 On top of our regular workshops we have run some great events, both in London and Brighton:
+
 - [Kickstart Your Developer Career](http://blog.codebar.io/2015/03/26/kickstart-your-development-career/)
 - [Mind the Code](http://blog.codebar.io/2015/06/17/mind-the-code/)
 - [uncodebar](http://blog.codebar.io/2015/10/18/uncodebar/)
@@ -66,6 +67,7 @@ On top of our regular workshops we have run some great events, both in London an
 - Code and Chips - [Building an RFID and QR code scavenger hunt](http://brightondigitalfestival.co.uk/event/codebrighton-scavenger-hunt/)
 
 And we have taken part in some amazing initiatives:
+
 - [Trans*Code](http://trans-code.org/)
 - [Brighton Digital Festival](http://brightondigitalfestival.co.uk/)
 - [Spring Forward Festival](http://wespringforward.com/)
@@ -78,7 +80,7 @@ Students and organisers got the opportunity to attend some great conferences, le
 - [re:develop 2015](http://redevelop.io/): [re:developer](http://redevelop.io) for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.
 - [FEL]((http://www.frontendlondon.co.uk/) and [Made by Many](https://madebymany.com/) for supporting us all year round by with complimentary tickets to their monthly event for our students.
 
-2015 was also the year we got some recognition for our work. Not only were nominated and shortlisted for the for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category  [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
+2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category  [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
 
 All of this would not have been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
 [shutl](https://shutl.com/uk/)
