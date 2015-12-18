@@ -3,10 +3,10 @@ layout: post
 title: "2015 Year in Review"
 date: 2015-12-16 19:52:32 +0000
 comments: true
-categories: 
+categories:
 ---
 
-We have reached the end of another year. 2015 has been a terrific year for us here at codebar. We have opened several new chapters, run many great events, grew our community by more than 119% and ran over a 100 workshops across our 8 active chapters. We've had an amazing time meeting all of you and building this community that we are all so fond of. Let's take a closer look of our achievements this year.
+2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened several new chapters, run many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
 
 5 the number of new chapters opened in 2015:
 Birmingham
@@ -15,9 +15,9 @@ Manchester
 South London
 West London
 
-137 the number of workshops run across all of our chapters
-50 the number of workshops run in our Central London chapter 
-50 the number of workshops run in our Brighton chapter
+137 the number of workshops facilitated across all of our chapters. That's a total of 342.5 hours of networking and learning.
+
+50 the number of workshops facilitated in our London and Brighton chapters.
 
 Birmingham: 7
 Bournemouth: 5
@@ -28,9 +28,9 @@ Manchester: 2
 South London: 5
 West London: 5
 
-223 the number of workshops run since starting codebar in October 2013
+223 the number of workshops we have facilitated since starting codebar in October 2013
 
-2963 the total number of members across all of our chapters. 1612 the number of people who have joined codebar this year alone, which is an incredible 100% increase from the 1351 we had in 2014.
+2963 the number of members across all of our chapters. 1612 the number of people who have joined codebar this year alone, which is an incredible 120% increase from the 1351 we had in 2014.
 
 
 Number of subscribers per chapter:
@@ -45,7 +45,7 @@ Bournemouth: 45
 Belfast: 34
 
 4934 the number of people who have RSVP'd to a workshop this year
- 
+
 People who RSVP'd to workshops this year by chapter:
 Birmingham: 46
 Bournemouth: 69
@@ -59,26 +59,26 @@ West London: 184
 In total, over 3 years, 7914 people have RSVP'd across all codebar chapters
 
 On top of our regular workshops we have run some great events, both in London and Brighton:
-[Kickstart Your Developer Career](http://blog.codebar.io/2015/03/26/kickstart-your-development-career/)
-[Mind the Code](http://blog.codebar.io/2015/06/17/mind-the-code/)
-[uncodebar](http://blog.codebar.io/2015/10/18/uncodebar/)
-24 Pull Requests 2015
-Code and Chips - Building an RFID and QR code scavenger hunt
+- [Kickstart Your Developer Career](http://blog.codebar.io/2015/03/26/kickstart-your-development-career/)
+- [Mind the Code](http://blog.codebar.io/2015/06/17/mind-the-code/)
+- [uncodebar](http://blog.codebar.io/2015/10/18/uncodebar/)
+- [24 Pull Requests 2015](http://codebar.io/events/24-pull-requests-2015)
+- Code and Chips - [Building an RFID and QR code scavenger hunt](http://brightondigitalfestival.co.uk/event/codebrighton-scavenger-hunt/)
 
 And we have taken part in some amazing initiatives:
-[Trans*Code](http://trans-code.org/)
-[Brighton Digital Festival](http://brightondigitalfestival.co.uk/)
-[Spring Forward Festival](http://wespringforward.com/)
+- [Trans*Code](http://trans-code.org/)
+- [Brighton Digital Festival](http://brightondigitalfestival.co.uk/)
+- [Spring Forward Festival](http://wespringforward.com/)
 
-codebar students and organisers have also had the opportunity to attend some great events and conferences this year, not in small part because of the support of our sponsors:
+Students and organisers got the opportunity to attend some great conferences, learn, network and spread the word about what we do and ways of promoting diversity. This was thanks in no small part to sponsors, donated tickets and money raised from donations: 
 
-Two organisers and two students had the opportunity to represent codebar at [Bath Ruby 2015](http://2016.bathruby.uk/) thanks to a generous donation from [shutl](https://shutl.com/uk/).
-We have sent one organiser and two students to [eurucamp 2015](http://2015.eurucamp.org/), made possible by [Tom Stuart](https://twitter.com/tomstuart) and [George Sheppard](https://twitter.com/fuzzmonkey).
-We have sent four students to [EuRuKo 2015](http://www.euruko2015.org/) thanks to a donation by [shutl](https://shutl.com/uk/).
-We had the opportunity to give a lightning talk at [re:develop 2015](http://redevelop.io/), who have also been greatly supportive in helping us set up our Bournemouth chapter.
-Lastly, thank you to [Front-end London](http://www.frontendlondon.co.uk/) and Made by Many for supporting us all year round with complimentary tickets for codebar students to their monthly event.
+- [BathRuby 2015](2015.bathruby.org): BathRuby for offering us three tickets and Shutl for their generous donation that enabled us to provide travel, accommodation and three more tickets to the conference
+- [Eurucamp](http://2015.eurucamp.org/): [Tom Stuart](https://twitter.com/tomstuart) for donating three tickets and [George Sheppard](https://twitter.com/fuzzymonkey) for sponsoring of travel expenses.
+- [EuRuKo 2015](http://www.euruko2015.org/): [Shutl](http://www.shutl.it) for the generous donation that enabled us to offer four tickets and make the trip possible by helping with travel and accommodation.
+- [re:develop 2015](http://redevelop.io/): [re:developer](http://redevelop.io) for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.
+- [FEL]((http://www.frontendlondon.co.uk/) and [Made by Many](https://madebymany.com/) for supporting us all year round by with complimentary tickets to their monthly event for our students.
 
-2015 was also the year we got some recognition for our work. We have been nominated for a [net award](https://thenetawards.com/), where we made it onto the shortlist in the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category. Our founder, Despo Pentara, has also been recognised by the UK Prime Minister where she received a [Points of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award for her work with codebar.
+2015 was also the year we got some recognition for our work. Not only were nominated and shortlisted for the for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) category  [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
 
 All of this would not have been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
 [shutl](https://shutl.com/uk/)
@@ -86,9 +86,8 @@ All of this would not have been possible without the generous support of our spo
 [Twilio](twilio.com)
 [Mailjet](https://uk.mailjet.com/)
 [8th Light](https://8thlight.com/)
-Robin's company
-Twitter
-Everyone of our mentors who have donated their time to coaching this year. 
+[Arm](http://www.arm.com/)
+Everyone of our mentors who have donated their time to coaching this year.
 Everyone of our students whose enthusiasm keeps us going.
 
 Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better 2016.
