@@ -6,14 +6,41 @@ comments: true
 categories:
 ---
 
-2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened [a](http://codebar.io/birmingham) [number](http://www.codebar.io/bournemouth/) [of](http://codebar.io/manchester) [new](http://codebar.io/south-london) [chapters](http://codebar.io/west-london), run [many](http://blog.codebar.io/2015/06/17/mind-the-code/) [great](http://blog.codebar.io/2015/10/18/uncodebar/) [events](http://codebar.io/events/24-pull-requests-2015)), grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
+<div>
+  <style type="text/css">
+  	.highlight {
+  		text-align: center;
+  	}
+  	.number {
+  		font-size: 6em;
+  		display: block;
+  		line-height: 1;
+  	}
+  	.chapters {
+  		padding-left: 0;
+  		display: flex;
+  		justify-content: space-between;
+  		list-style-type: none;
+  	}
+  	.chapter {
+  		font-size: 0.8em;
+  	}
 
-5 the number of new chapters opened in 2015:
-Birmingham
-Bournemouth
-Manchester
-South London
-West London
+  </style>
+</div>
+
+2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened [a](http://codebar.io/birmingham) [number](http://www.codebar.io/bournemouth/) [of](http://codebar.io/manchester) [new](http://codebar.io/south-london) [chapters](http://codebar.io/west-london), run [many](http://blog.codebar.io/2015/06/17/mind-the-code/) [great](http://blog.codebar.io/2015/10/18/uncodebar/) [events](http://codebar.io/events/24-pull-requests-2015), grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
+
+<div class="highlight">
+	<p><span class="number">5</span>the number of new chapters opened in 2015</p>
+	<ul class="chapters">
+		<li class="chapter">Birmingham</li>
+		<li class="chapter">Bournemouth</li>
+		<li class="chapter">Manchester</li>
+		<li class="chapter">South London</li>
+		<li class="chapter">West London</li>
+	</ul>
+</div>
 
 137 the number of workshops facilitated across all of our chapters. That's a total of 342.5 hours of networking and learning.
 
