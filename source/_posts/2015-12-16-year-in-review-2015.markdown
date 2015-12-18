@@ -77,7 +77,7 @@ Students and organisers got the opportunity to attend some great conferences, le
 - [BathRuby 2015](2015.bathruby.org): BathRuby for offering us three tickets and Shutl for their generous donation that enabled us to provide travel, accommodation and three more tickets to the conference
 - [Eurucamp](http://2015.eurucamp.org/): [Tom Stuart](https://twitter.com/tomstuart) for donating three tickets and [George Sheppard](https://twitter.com/fuzzymonkey) for sponsoring of travel expenses.
 - [EuRuKo 2015](http://www.euruko2015.org/): [Shutl](http://www.shutl.it) for the generous donation that enabled us to offer four tickets and make the trip possible by helping with travel and accommodation.
-- [re:develop 2015](http://redevelop.io/): [re:developer](http://redevelop.io) for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.
+- [re:develop 2015](http://redevelop.io/): [re:develop](http://redevelop.io) for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.
 - [FEL]((http://www.frontendlondon.co.uk/) and [Made by Many](https://madebymany.com/) for supporting us all year round by with complimentary tickets to their monthly event for our students.
 
 2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
