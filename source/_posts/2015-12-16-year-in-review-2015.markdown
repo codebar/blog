@@ -284,7 +284,7 @@ Thanks to all of you, 2015 was full of great moments and amazing work... Here's 
   (function() {
     var workshops = [['London', 50], ['Brighton', 50], ['Cambridge', 12], ['Birmingham', 7], ['Bournemouth', 5], ['South London', 5], ['West London', 5], ['Manchester', 2]],
       subscribers = [['London', 1537], ['Brighton', 481]],
-      memberships = [ [{x: 0, y: 212}], [{x: 1, y: 1139}], [{x: 2, y: 1612}] ];
+      memberships = [ {x: 0, value: 212, y0: 0}, {x: 1, value: 1139, y0: 212}, {x: 2, value: 1612, y0: 1351} ];
 
     var margin = {left: 20, right: 20},
         padding = 5,
@@ -356,10 +356,13 @@ Thanks to all of you, 2015 was full of great moments and amazing work... Here's 
     }
 
     function membersChart() {
-      var stack = d3.layout.stack();
-      stack(memberships);
+      var color = d3.rgb('#afdef8');
 
-      console.log(memberships);
+      var xScale = d3.scale.linear()
+        .domain([0, d3.max(memberships, function(d) {
+          return d.value;
+        })])
+        .range([20, height]);
 
       var membersChart = d3.select('#members-chart')
         .append('svg')
@@ -368,21 +371,15 @@ Thanks to all of you, 2015 was full of great moments and amazing work... Here's 
           height: 300
         });
 
-      var group = membersChart.selectAll('g')
+      var rects = membersChart.selectAll('rect')
         .data(memberships)
-        .enter()
-        .append('g');
-
-      var rects = group.selectAll('rect')
-        .data(function(d){ return d; })
         .enter()
         .append('rect')
         .attr({
-          x: function(d, i) { return i; },
-          y: function(d) { return 0; },
-          width: function(d) { return d.y},
-          height: function(d) { return 40} ,
-          fill: function(d) { return 'rgba(175, 222, 248, ' + ((10 - d.x) * 0.1) + ')'; }
+          x: function(d) { return xScale(d.y0); },
+          width: function(d) { return xScale(d.value); },
+          height: function(d) { return 60} ,
+          fill: function(d, i) { return 'rgba(175, 222, 248, ' + (10 - d.x - 2) * 0.1 + ')'; }
         });
     }
 
