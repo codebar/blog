@@ -46,6 +46,9 @@ categories:
     .workshops .number {
       color: #f8af3c;
     }
+    .members .number {
+      color: #afdef8;
+    }
 
   </style>
 </div>
@@ -204,9 +207,8 @@ categories:
   <p>That's a total of <span class="number-small">342.5</span> hours of networking and learning. Central London and Brighton were the busiest chapters this year: they both ran <span class="number-small">50</span> workshops respectively.</p>
 
   <div id="workshops-chart"></div>
+  223 the number of workshops we have facilitated since starting codebar in October 2013
 </div>
-
-223 the number of workshops we have facilitated since starting codebar in October 2013
 
 <div class="members">
   <p class="section-heading"><span class="number">2963</span>the number of members across all of our chapters.</p>
@@ -228,7 +230,7 @@ Bournemouth: 45
 Belfast: 34
 
 <div class="rsvps">
-  <p><span class="number">4934</span> people have RSVP'd to a workshop this year</p>
+  <p class="section-heading"><span class="number">4934</span> people have RSVP'd to a workshop this year.</p>
   
 </div>
 
@@ -269,12 +271,15 @@ Students and organisers got the opportunity to attend some great conferences, le
 2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
 
 All of this would not have been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
-[shutl](https://shutl.com/uk/)
-[Made by Many](madebymany.com)
-[Twilio](twilio.com)
-[Mailjet](https://uk.mailjet.com/)
-[8th Light](https://8thlight.com/)
-[Arm](http://www.arm.com/)
+
+- [shutl](https://shutl.com/uk/)
+- [Made by Many](madebymany.com)
+- [Twilio](twilio.com)
+- [Mailjet](https://uk.mailjet.com/)
+- [8th Light](https://8thlight.com/)
+- [Arm](http://www.arm.com/)
+- Sam Phillips
+
 Everyone of our mentors who have donated their time to coaching this year.
 Everyone of our students whose enthusiasm keeps us going.
 
@@ -282,9 +287,9 @@ Thanks to all of you, 2015 was full of great moments and amazing work... Here's 
 
 <script type="text/javascript">
   (function() {
-    var workshops = [['London', 50], ['Brighton', 50], ['Cambridge', 12], ['Birmingham', 7], ['Bournemouth', 5], ['South London', 5], ['West London', 5], ['Manchester', 2]],
+    var workshops = [['London', 50], ['Brighton', 50], ['Cambridge', 12], ['Birmingham', 7], ['Bournemouth', 5], ['S London', 5], ['W London', 5], ['Manchester', 2]],
       subscribers = [['London', 1537], ['Brighton', 481]],
-      memberships = [ {x: 0, value: 212, y0: 0}, {x: 1, value: 1139, y0: 212}, {x: 2, value: 1612, y0: 1351} ];
+      memberships = [ {x: 0, value: 212, y0: 0, year: '2013'}, {x: 1, value: 1139, y0: 212, year: '2014'}, {x: 2, value: 1612, y0: 1351, year: '2015'} ];
 
     var margin = {left: 20, right: 20},
         padding = 5,
@@ -360,26 +365,63 @@ Thanks to all of you, 2015 was full of great moments and amazing work... Here's 
 
       var xScale = d3.scale.linear()
         .domain([0, d3.max(memberships, function(d) {
-          return d.value;
+          return d.value + d.y0;
         })])
-        .range([20, height]);
+        .range([0, width]);
+
+      var xAxis = d3.svg.axis()
+        .scale(xScale)
+        .orient('bottom');
 
       var membersChart = d3.select('#members-chart')
         .append('svg')
         .attr({
           width: width,
-          height: 300
+          height: 120
         });
 
-      var rects = membersChart.selectAll('rect')
+      var rectsGroup = membersChart.append('g'),
+          yearLabelsGroup = membersChart.append('g'),
+          numberLabelsGroup = membersChart.append('g');
+
+      var rects = rectsGroup.selectAll('rect')
         .data(memberships)
         .enter()
         .append('rect')
         .attr({
           x: function(d) { return xScale(d.y0); },
-          width: function(d) { return xScale(d.value); },
-          height: function(d) { return 60} ,
+          width: 0,
+          height: function(d) { return 80; },
           fill: function(d, i) { return 'rgba(175, 222, 248, ' + (10 - d.x - 2) * 0.1 + ')'; }
+        });
+
+      rects
+        .transition()
+        .attr('width', function(d) { return xScale(d.value); })
+        .duration(2000);
+
+      var yearLabels = yearLabelsGroup.selectAll('text')
+        .data(memberships)
+        .enter()
+        .append('text')
+        .text(function(d) {
+          return d.year;
+        })
+        .attr({
+          y: 20,
+          x: function(d) { return xScale(d.y0) + 10; },
+          'font-size': '0.6em'
+        });
+
+      var numberLabels = numberLabelsGroup.selectAll('text')
+        .data(memberships)
+        .enter()
+        .append('text')
+        .text(function(d) { return d.value + d.y0; })
+        .attr({
+          y: 92,
+          x: function(d) { return xScale(d.value + d.y0 - 40); },
+          'font-size': '0.6em'
         });
     }
 
