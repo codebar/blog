@@ -534,12 +534,3 @@ And we have taken part in some amazing initiatives:
   <p><span class="number-small">All</span> of the companies who have hosted us this year. <span class="number-small">Everyone</span> of our mentors who have donated their time to coaching this year. <span class="number-small">Each and every one</span> of our amazing students whose enthusiasm keeps us going.</p>
   <p class="section-heading">Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better <span class="number-large">2016</span></p>
 </div>
-
-<script type="text/javascript">
-  (function() {
-    var workshopsEl = document.getElementsByClassName('html');
-    document.onscroll = function() {
-      console.log('scrolling!');
-    };
-  })();
-</script>
