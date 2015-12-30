@@ -24,17 +24,23 @@ categories:
     }
     .number-small {
       font-size: 1.2em;
-      margin: 0 4px;
+      margin: 0 2px;
+      padding: 0 6px;
     }
     .footnote {
       border-top: 4px solid transparent;
-      border-image: 100% 0 0 linear-gradient(90deg, currentColor 30%, transparent 0);
+      -webkit-border-image: 100% 0 0 -webkit-linear-gradient(left, #333333 30%, transparent 0);
+           -o-border-image: 100% 0 0 linear-gradient(90deg, #333333 30%, transparent 0);
+              border-image: 100% 0 0 linear-gradient(90deg, #333333 30%, transparent 0);
       padding-top: 10px;
     }
     .chapters,
     .workshops,
     .members,
-    .rsvps {
+    .rsvps,
+    .conferences,
+    .sponsors,
+    .awards {
       padding: 40px 0;
     }
   	.chapters-list {
@@ -42,19 +48,40 @@ categories:
 
       list-style-type: none;
 
-  		display: flex;
-  		justify-content: space-between;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      justify-content: space-around;
   	}
   	.chapter {
   		font-size: 0.8em;
-    	padding: 0 14px;
     	text-align: center;
 
-		flex-basis: 20%;
-		display: flex;
-		flex-direction: column;
-		justify-content: flex-end;
+      -webkit-flex-basis: 20%;
+          -ms-flex-preferred-size: 20%;
+              flex-basis: 20%;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-pack: end;
+      -webkit-justify-content: flex-end;
+          -ms-flex-pack: end;
+              justify-content: flex-end;
   	}
+    .map {
+      width: 80%;
+      margin: 0 auto;
+    }
     svg path {
       fill: #eeeeee;
     }
@@ -62,8 +89,10 @@ categories:
       fill: #ea5b28;
     }
     .circle {
-      animation: pulsate 2s ease-out;
-      animation-iteration-count: infinite; 
+      -webkit-animation: pulsate 2s ease-out;
+        animation: pulsate 2s ease-out;
+      -webkit-animation-iteration-count: infinite;
+        animation-iteration-count: infinite; 
       opacity: 0.4;
     }
     @-webkit-keyframes pulsate {
@@ -76,111 +105,188 @@ categories:
 
       list-style-type: none;
 
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
       display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
     }
     .workshop {
       padding: 20px 0;
       text-align: center;
 
-      flex-basis: 33.33%;
+      -webkit-flex-basis: 33.33%;
+          -ms-flex-preferred-size: 33.33%;
+              flex-basis: 33.33%;
     }
     .members-list {
       padding: 40px 0;
 
       list-style-type: none;
 
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
       display: flex;
-      flex-wrap: wrap;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
     }
     .member {
       padding: 20px 0;
       text-align: center;
 
-      flex-basis: 33.33%;
+      -webkit-flex-basis: 33.33%;
+          -ms-flex-preferred-size: 33.33%;
+              flex-basis: 33.33%;
     }
     .rsvps-list {
       padding: 40px 0;
       list-style-type: none;
 
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
       display: flex;
-      flex-wrap: wrap;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
     }
     .rsvp {
       padding: 20px 0;
       text-align: center;
 
-      flex-basis: 25%;
+      -webkit-flex-basis: 25%;
+          -ms-flex-preferred-size: 25%;
+              flex-basis: 25%;
     }
-    .events {
+    .events,
+    .conferences ul,
+    .sponsors ul {
+      padding-left: 0;
       list-style-type: none;
     }
-    .event {
-      border-left: 6px solid grey;
+    .events li,
+    .conferences li,
+    .sponsors li {
+      margin-bottom: 10px;
+    }
+    .events a,
+    .conferences a,
+    .awards a,
+    .sponsors a {
+      text-decoration: none;
+      color: #336666;
+
+      background: -webkit-linear-gradient(currentColor, currentColor) no-repeat;
+      background: linear-gradient(currentColor, currentColor) no-repeat;
+      background-size: 0% 2px;
+      background-position: 0 1.15em;
+      text-shadow: .05em 0 white, -.05em 0 white;
+
+      -webkit-transition: background-size 0.2s ease-in;
+      transition: background-size 0.2s ease-in;
+    }
+    .events a:hover,
+    .conferences a:hover,
+    .awards a:hover,
+    .sponsors a:hover {
+      background-size: 100% 1px;
     }
     .initiatives {
       padding-left: 0;
       list-style-type: none;
 
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
       display: flex;
-      align-items: center;
-      flex-wrap: wrap;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
     }
     .initiative {
       padding: 20px 0;
-      flex-basis: 33.33%;
+      -webkit-flex-basis: 33.33%;
+          -ms-flex-preferred-size: 33.33%;
+              flex-basis: 33.33%;
+    }
+    .sponsors .number-large {
+      color: #99ccff;
     }
     .chapters .number-large {
       color: #ea5b28;
     }
     .workshops .number-large,
-    .workshops .number-small,
     .workshops .number {
       color: #f8af3c;
     }
     .workshops .number-small {
-      background: linear-gradient(#f8af3c, #f8af3c) no-repeat;
-      background-size: 100% 2px;
-      background-position: 0 1.1em;
+      background: #f8af3c;
+      color: #fff;
     }
     .members .number-large,
-    .members .number-small,
     .members .number {
-      color: #afdef8;
+      color: #47ad4c;
     }
     .members .number-small {
-      background: linear-gradient(#afdef8, #afdef8) no-repeat;
-      background-size: 100% 2px;
-      background-position: 0 1.1em;      
+      background: #47ad4c;
+      color: #fff;
     }
     .rsvps .number-large,
-    .rsvps .number-small,
     .rsvps .number {
       color: #a2539a;
+    }
+    .sponsors .number-small {
+      background: #99ccff;
+      color: #fff;
     }
 
     @media screen and (max-width: 768px) {
     	.rsvp,
     	.member,
     	.workshop {
-    		flex-basis: 50%;
+        -webkit-flex-basis: 50%;
+            -ms-flex-preferred-size: 50%;
+                flex-basis: 50%;
     	}
     }
 
+    @media screen and (max-width: 600px) {
+      .chapter {
+        -webkit-flex-basis: 50%;
+            -ms-flex-preferred-size: 50%;
+                flex-basis: 50%;
+        padding: 10px 0;
+      }
+    }
+
     @media screen and (max-width: 420px) {
-      	.rsvp,
+      .rsvp,
     	.member,
     	.workshop,
-    	.initiative {
-    		flex-basis: 100%;
+    	.initiative,
+      .chapter {
+        -webkit-flex-basis: 100%;
+            -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
     	}  	
     }
 
   </style>
 </div>
 
-2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened a number of new chapters, run [many](http://blog.codebar.io/2015/06/17/mind-the-code/) [great](http://blog.codebar.io/2015/10/18/uncodebar/) [events](http://codebar.io/events/24-pull-requests-2015), grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
+2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened a number of new chapters, run many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
 
 <div class="chapters">
 	<p class="section-heading"><span class="number-large">5</span>new chapters opened in 2015.</p>
@@ -396,33 +502,38 @@ And we have taken part in some amazing initiatives:
   </li>
 </ul>
 
-Students and organisers got the opportunity to attend great conferences, learn, network and spread the word about what we do and ways of promoting diversity. This was thanks in no small part to sponsors, donated tickets and money raised from donations: 
+<div class="conferences">
+  <p>Students and organisers got the opportunity to attend great conferences, learn, network and spread the word about what we do and ways of promoting diversity. This was thanks in no small part to sponsors, donated tickets and money raised from donations:</p>
+  <ul>
+    <li><a href="2015.bathruby.org">BathRuby 2015</a>: BathRuby for offering us three tickets and <a href="https://shutl.com/uk/">shutl</a> for their generous donation that enabled us to provide travel, accommodation and three more tickets to the conference</li>
+    <li><a href="http://2015.eurucamp.org/">Eurucamp</a>: <a href="https://twitter.com/tomstuart">Tom Stuart</a> or donating three tickets and <a href="https://twitter.com/fuzzymonkey">George Sheppard</a> for sponsoring of travel expenses.</li>
+    <li><a href="http://www.euruko2015.org/">EuRuKo 2015</a>: <a href="https://shutl.com/uk/">shutl</a> for the generous donation that enabled us to offer four tickets and make the trip possible by helping with travel and accommodation.</li>
+    <li><a href="http://redevelop.io/">re:develop 2015</a>: re:develop for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.</li>
+    <li><a href="http://www.frontendlondon.co.uk/">FEL</a> and <a href="https://madebymany.com/">Made by Many</a> for supporting us all year round with complimentary tickets to their monthly event for our students.</li>
+  </ul>
+</div>
 
-- [BathRuby 2015](2015.bathruby.org): BathRuby for offering us three tickets and Shutl for their generous donation that enabled us to provide travel, accommodation and three more tickets to the conference
-- [Eurucamp](http://2015.eurucamp.org/): [Tom Stuart](https://twitter.com/tomstuart) for donating three tickets and [George Sheppard](https://twitter.com/fuzzymonkey) for sponsoring of travel expenses.
-- [EuRuKo 2015](http://www.euruko2015.org/): [Shutl](http://www.shutl.it) for the generous donation that enabled us to offer four tickets and make the trip possible by helping with travel and accommodation.
-- [re:develop 2015](http://redevelop.io/): [re:develop](http://redevelop.io) for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.
-- [FEL](http://www.frontendlondon.co.uk/) and [Made by Many](https://madebymany.com/) for supporting us all year round with complimentary tickets to their monthly event for our students.
+<div class="awards">
+  <p>2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the <a href="https://thenetawards.com/vote/grassroots/">Grassroots Event of the Year</a> <a href="https://thenetawards.com/">net award</a> but we also received the 330th <a href="https://www.pointsoflight.gov.uk/coding-access-champion/">Point of Light</a> award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.</p>
+</div>
 
-2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the [Grassroots Event of the Year](https://thenetawards.com/vote/grassroots/) [net award](https://thenetawards.com/) but we also received the 330th [Point of Light](https://www.pointsoflight.gov.uk/coding-access-champion/) award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.
-
-All of this would not have been possible without the generous support of our sponsors. In no particular order these were some of the individuals and companies we are thankful for in 2015:
-
-- [shutl](https://shutl.com/uk/)
-- [Made by Many](madebymany.com)
-- [Twilio](twilio.com)
-- [Mailjet](https://uk.mailjet.com/)
-- [8th Light](https://8thlight.com/)
-- [Arm](http://www.arm.com/)
-- [Codurance](http://codurance.com/)
-- [Crowdmix](http://www.crowdmix.me/)
-- [Sam Phillips](https://twitter.com/samsworldofno)
-
-<p class="">Everyone of the companies who have hosted us this year.</p>
-<p class="">Everyone of our mentors who have donated their time to coaching this year.</p>
-<p class="">Everyone of our students whose enthusiasm keeps us going.</p>
-
-Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better 2016.
+<div class="sponsors">
+  <p>All of this would not have been possible without the generous support of our sponsors. In no particular order these are some of the individuals and companies we are thankful for in 2015:</p>
+  <ul>
+    <li><a href="https://shutl.com/uk/">shutl</a></li>
+    <li><a href="https://madebymany.com/">Made by Many</a></li>
+    <li><a href="https://8thlight.com/">8th Light</a></li>
+    <li><a href="https://twilio.com/">Twilio</a></li>
+    <li><a href="https://uk.mailjet.com/">Mailjet</a></li>
+    <li><a href="http://www.arm.com/">Arm</a></li>
+    <li><a href="http://codurance.com/">Codurance</a></li>
+    <li><a href="http://www.crowdmix.me/">Crowdmix</a></li>
+    <li><a href="https://gocardless.com/">GoCardless</a></li>
+    <li><a href="https://twitter.com/samsworldofno">Sam Phillips</a></li>
+  </ul>
+  <p><span class="number-small">All</span> of the companies who have hosted us this year. <span class="number-small">Everyone</span> of our mentors who have donated their time to coaching this year. <span class="number-small">Each and every one</span> of our amazing students whose enthusiasm keeps us going.</p>
+  <p class="section-heading">Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better <span class="number-large">2016</span></p>
+</div>
 
 <script type="text/javascript">
   (function() {
