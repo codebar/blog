@@ -506,7 +506,7 @@ And we have taken part in some amazing initiatives:
   <p>Students and organisers got the opportunity to attend great conferences, learn, network and spread the word about what we do and ways of promoting diversity. This was thanks in no small part to sponsors, donated tickets and money raised from donations:</p>
   <ul>
     <li><a href="2015.bathruby.org">BathRuby 2015</a>: BathRuby for offering us three tickets and <a href="https://shutl.com/uk/">shutl</a> for their generous donation that enabled us to provide travel, accommodation and three more tickets to the conference</li>
-    <li><a href="http://2015.eurucamp.org/">Eurucamp</a>: <a href="https://twitter.com/tomstuart">Tom Stuart</a> or donating three tickets and <a href="https://twitter.com/fuzzymonkey">George Sheppard</a> for sponsoring of travel expenses.</li>
+    <li><a href="http://2015.eurucamp.org/">Eurucamp</a>: <a href="https://twitter.com/tomstuart">Tom Stuart</a> on donating three tickets and <a href="https://twitter.com/fuzzymonkey">George Sheppard</a> for sponsoring of travel expenses.</li>
     <li><a href="http://www.euruko2015.org/">EuRuKo 2015</a>: <a href="https://shutl.com/uk/">shutl</a> for the generous donation that enabled us to offer four tickets and make the trip possible by helping with travel and accommodation.</li>
     <li><a href="http://redevelop.io/">re:develop 2015</a>: re:develop for offering us a lightning talk slot at their conference and their support in helping us set up our Bournemouth chapter.</li>
     <li><a href="http://www.frontendlondon.co.uk/">FEL</a> and <a href="https://madebymany.com/">Made by Many</a> for supporting us all year round with complimentary tickets to their monthly event for our students.</li>
