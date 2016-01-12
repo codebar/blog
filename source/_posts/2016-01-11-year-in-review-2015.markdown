@@ -27,6 +27,10 @@ categories:
       margin: 0 2px;
       padding: 0 6px;
     }
+
+    .number-medium {
+      font-size: 1.4em;
+    }
     .footnote {
       border-top: 4px solid transparent;
       -webkit-border-image: 100% 0 0 -webkit-linear-gradient(left, #333333 30%, transparent 0);
@@ -92,7 +96,7 @@ categories:
       -webkit-animation: pulsate 2s ease-out;
         animation: pulsate 2s ease-out;
       -webkit-animation-iteration-count: infinite;
-        animation-iteration-count: infinite; 
+        animation-iteration-count: infinite;
       opacity: 0.4;
     }
     @-webkit-keyframes pulsate {
@@ -228,6 +232,7 @@ categories:
       color: #ea5b28;
     }
     .workshops .number-large,
+    .workshops .number-medium,
     .workshops .number {
       color: #f8af3c;
     }
@@ -246,6 +251,11 @@ categories:
     .rsvps .number-large,
     .rsvps .number {
       color: #a2539a;
+    }
+
+    .rsvps .number-small {
+      background-color: #a2539a;
+      color: #fff;
     }
     .sponsors .number-small {
       background: #99ccff;
@@ -280,7 +290,7 @@ categories:
         -webkit-flex-basis: 100%;
             -ms-flex-preferred-size: 100%;
                 flex-basis: 100%;
-    	}  	
+    	}
     }
 
   </style>
@@ -289,7 +299,7 @@ categories:
 2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened a number of new chapters, run many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
 
 <div class="chapters">
-	<p class="section-heading"><span class="number-large">5</span>new chapters opened in 2015.</p>
+	<p class="section-heading"><span class="number-large">5</span>new chapters</p>
 	<ul class="chapters-list">
 		<li class="chapter">
 	      <div class="map">
@@ -428,9 +438,12 @@ categories:
 	</ul>
 </div>
 <div class="workshops">
-  <p class="section-heading"><span class="number-large">137</span>workshops facilitated across all of our chapters in 2015.</p> 
-  <p>That's a total of <span class="number-small">342.5</span> hours of networking and learning. Central London and Brighton were the busiest chapters this year: they both ran <span class="number-small">50</span> workshops respectively.</p>
+  <p class="section-heading"><span class="number-large">137</span>workshops</p>
+  <p>That's a total of <span class="number-small">342.5</span> hours of networking and learning.</p>
+  <p><span class="number-medium">100</span> of those workshops were organised by our two busiest chapters, London and Brighton.</p>
   <ul class="workshops-list">
+    <li class="workshop"><span class="number">50</span> London</li>
+    <li class="workshop"><span class="number">50</span> Brighton</li>
     <li class="workshop"><span class="number">12</span> Cambridge</li>
     <li class="workshop"><span class="number">7</span> Birmingham</li>
     <li class="workshop"><span class="number">7</span> Bournemouth</li>
@@ -438,14 +451,14 @@ categories:
     <li class="workshop"><span class="number">5</span> West London</li>
     <li class="workshop"><span class="number">2</span> Manchester</li>
   </ul>
-  <p class="footnote">223 the number of workshops we have facilitated since starting codebar in October 2013</p>
+  <p class="footnote">In total, we have facilitated <span class="number-small">223</span> workshops since October 2013.</p>
 </div>
 
 <div class="members">
-  <p class="section-heading"><span class="number-large">2963</span>the number of members across all of our chapters.</p>
-  <p><span class="number-small">1612</span> people have joined codebar this year alone, which is an incredible <span class="number-small">120%</span> increase from the <span class="number-small">1351</span> we had in 2014.</p>
+  <p class="section-heading"><span class="number-large">2978</span>members in total</p>
+  <p><span class="number-small">1625</span> people signed up to codebar, which is an incredible <span class="number-small">149%</span> join rate increase from the <span class="number-small">1140</span> who joined in 2014.</p>
 
-  <p>Total number of members per chapter:</p>
+  <p>At the end of the year, the total number of subscribers per chapter was:</p>
   <ul class="members-list">
     <li class="member"><span class="number">1537</span> London</li>
     <li class="member"><span class="number">481</span> Brighton</li>
@@ -460,7 +473,7 @@ categories:
 </div>
 
 <div class="rsvps">
-  <p class="section-heading"><span class="number-large">4934</span> people have RSVP'd to a workshop this year.</p>
+  <p class="section-heading"><span class="number-large">4934</span>workshop RSVPs</p>
   <ul class="rsvps-list">
     <li class="rsvp"><span class="number">2825</span> London</li>
     <li class="rsvp"><span class="number">1512</span> Brighton</li>
@@ -471,10 +484,11 @@ categories:
     <li class="rsvp"><span class="number">46</span> Birmingham</li>
     <li class="rsvp"><span class="number">16</span> Manchester</li>
   </ul>
-  <p class="footnote">In total, over 2 and a half years, 7914 people have RSVP'd across all codebar chapters.</p>
+
+  <p class="footnote"><span class="number-small">7914</span> have RSVP'd across all workshop ever taken place.</p>
 </div>
 
-On top of our regular workshops we have run some great events, both in London and Brighton:
+On top of our regular workshops, we also ran some great events:
 <ul class="events">
 	<li class="event"><a href="http://blog.codebar.io/2015/03/26/kickstart-your-development-career/">Kickstart Your Developer Career</a></li>
 	<li class="event"><a href="http://blog.codebar.io/2015/06/17/mind-the-code/">Mind the Code</a></li>
@@ -483,13 +497,13 @@ On top of our regular workshops we have run some great events, both in London an
 	<li class="event">Code and Chips - <a href="http://brightondigitalfestival.co.uk/event/codebrighton-scavenger-hunt/">Building an RFID and QR code scavenger hunt</a></li>
 </ul>
 
-And we have taken part in some amazing initiatives:
+And we took part in some amazing initiatives:
 <ul class="initiatives">
   <li class="initiative">
     <a href="http://trans-code.org/">
       <img src="/images/trans-code.jpg"/ alt="Trans*Code logo">
     </a>
-  </li> 
+  </li>
   <li class="initiative">
     <a href="http://brightondigitalfestival.co.uk/">
       <img src="/images/bdf-logo.svg" alt="Brighton Digital Festival logo">
@@ -516,21 +530,9 @@ And we have taken part in some amazing initiatives:
 <div class="awards">
   <p>2015 was also the year we got some recognition for our work. Not only were we nominated and shortlisted for the <a href="https://thenetawards.com/vote/grassroots/">Grassroots Event of the Year</a> <a href="https://thenetawards.com/">net award</a> but we also received the 330th <a href="https://www.pointsoflight.gov.uk/coding-access-champion/">Point of Light</a> award by the Prime Minister for helping to get more women and people from ethnic minority backgrounds into coding.</p>
 </div>
-
 <div class="sponsors">
-  <p>All of this would not have been possible without the generous support of our sponsors. In no particular order these are some of the individuals and companies we are thankful for in 2015:</p>
-  <ul>
-    <li><a href="https://shutl.com/uk/">shutl</a></li>
-    <li><a href="https://madebymany.com/">Made by Many</a></li>
-    <li><a href="https://8thlight.com/">8th Light</a></li>
-    <li><a href="https://twilio.com/">Twilio</a></li>
-    <li><a href="https://uk.mailjet.com/">Mailjet</a></li>
-    <li><a href="http://www.arm.com/">Arm</a></li>
-    <li><a href="http://codurance.com/">Codurance</a></li>
-    <li><a href="http://www.crowdmix.me/">Crowdmix</a></li>
-    <li><a href="https://gocardless.com/">GoCardless</a></li>
-    <li><a href="https://twitter.com/samsworldofno">Sam Phillips</a></li>
-  </ul>
-  <p><span class="number-small">All</span> of the companies who have hosted us this year. <span class="number-small">Everyone</span> of our mentors who have donated their time to coaching this year. <span class="number-small">Each and every one</span> of our amazing students whose enthusiasm keeps us going.</p>
-  <p class="section-heading">Thanks to all of you, 2015 was full of great moments and amazing work... Here's to an even better <span class="number-large">2016</span></p>
+  <p>Thank you to our <span class="number-small">107</span> <b><a href="https://codebar.io/sponsors">current and past sponsors</a></b>, as without your generous support we wouldn't have achieved as much in such a short time; to
+  <span class="number-small">every single one</span> of our mentors, for using your personal time to coach and having an active role in creating a more diverse industry and to <span class="number-small">each and every one</span> of our amazing students, because your passion and enthusiasm is what keeps us going.</p>
+  <p>Thanks to <span class="number-small">all of you</span> for your <a href="https://donate.codebar.io">donations</a>, supporting our work and making 2015 a great year, full of wonderful moments and amazing work.</p>
+  <p class="section-heading"> <b>Here's to an even better</b> <span class="number-large">2016</span></p>
 </div>
