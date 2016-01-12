@@ -293,7 +293,7 @@ categories:
   </style>
 </div>
 
-2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened a number of new chapters, ran many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look of our achievements this year.
+2015, a sensational year for us here at codebar, has reached its end. Throughout this time we opened a number of new chapters, ran many great events, grew our community by almost 120% and facilitated over 100 workshops across 8 of our chapters. We had an amazing time meeting all of you and building up our amazing  community. Let's take a closer look at our achievements this year.
 
 <div class="chapters">
 	<p class="section-heading"><span class="number-large">5</span>new chapters</p>
