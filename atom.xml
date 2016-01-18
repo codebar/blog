@@ -4,7 +4,7 @@
   <title><![CDATA[codebar]]></title>
   <link href="http://blog.codebar.io//atom.xml" rel="self"/>
   <link href="http://blog.codebar.io//"/>
-  <updated>2016-01-12T14:15:03+00:00</updated>
+  <updated>2016-01-18T17:24:20+00:00</updated>
   <id>http://blog.codebar.io//</id>
   <author>
     <name><![CDATA[codebar]]></name>
@@ -462,7 +462,7 @@
     <li class="workshop"><span class="number">7</span> Birmingham</li>
     <li class="workshop"><span class="number">7</span> Bournemouth</li>
     <li class="workshop"><span class="number">5</span> South London</li>
-    <li class="workshop"><span class="number">5</span> West London</li>
+    <li class="workshop"><span class="number">6</span> West London</li>
     <li class="workshop"><span class="number">2</span> Manchester</li>
   </ul>
   <p class="footnote">In total, we have facilitated <span class="number-small">223</span> workshops since October 2013.</p>
