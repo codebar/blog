@@ -15,8 +15,6 @@
 {% endif %}
 
 {% if author %}
-<div class="author">
   <img src='http://www.gravatar.com/avatar/{{ author_email | md5 }}'/>
-  <span class="byline author vcard">  <span class="fn">{{ author }}</span></span>
-</div>
+  <span class="byline vcard">  <span class="fn">{{ author }}</span></span>
 {% endif %}
